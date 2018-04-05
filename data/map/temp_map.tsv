@@ -1,0 +1,1509 @@
+ 	Sample_ID2	Patient_No	Stool_No_Hospital	Hospital	Date_Recieved	Date_Collected	Time_Collected	Timeline_Weeks	Abx_regular	"Abx_timeline(prior, during, after)"	abx_day	Consistency	Color	Amount	Hospital_Stool_Type	Entered into REDCap by CHOP RA?	Notes	Sequencing_Run
+magic.0001	magic.100.001	101	1	yes	2016.12.16	2016.12.10	1430	na	na	na	na	na	na					seq_1
+magic.0002	magic.100.002	102	3	yes	2016.12.20	2016.12.16	1550	na	na	na	na	na	na					
+magic.0003	magic.100.003	102	6	yes	2016.12.20	2016.12.14	715	na	na	na	na	na	na					
+magic.0004	magic.100.004	101	na	no	2016.12.20	2016.12.15	na	1	na	na	na	na	na			Y	was gelatinous	seq_1
+magic.0005	magic.100.005	104	4	yes	2016.12.20	2016.12.15	1830	na	na	na	na	na	na					
+magic.0006	magic.100.006	104	5	yes	2016.12.20	2016.12.15	2335	na	na	na	na	na	na					
+magic.0007	magic.100.007	105	7	yes	2016.12.20	2016.12.15	2115	na	na	na	na	na	na					
+magic.0008	magic.100.008	105	6	yes	2016.12.20	2016.12.15	1525	na	na	na	na	na	na					
+magic.0009	magic.100.009	102	4	yes	2016.12.20	2016.12.13	1600	na	na	na	na	na	na				post surgery	
+magic.0010	magic.100.010	101	2	yes	2016.12.16	2016.12.10	2230	na	na	na	na	na	na					
+magic.0011	magic.100.011	107	na	no	2016.12.29	2016.12.25	1731	1	regular	na	na	watery	orange	75				seq_1
+magic.0012	magic.100.012	105	na	no	2016.12.29	2016.12.22	950	1	regular	na	na	soft	orange	25				
+magic.0013	magic.100.013	102	na	no	2016.12.29	2016.12.19	2142	1	regular	na	na	watery	orange	50				seq_1
+magic.0014	magic.100.014	106	na	no	2016.12.29	2016.12.22	250	1	regular	na	na	watery	yellow	25				
+magic.0015	magic.100.015	106	1	yes	2016.12.29	2016.12.16	2134	na	na	na	na	na	na	na				seq_1
+magic.0016	magic.100.016	101	na	no	2016.12.29	na	na	2	na	na	na	na	na	na		Y	no metadata	seq_1
+magic.0017	magic.100.017	105	na	no	2017.01.03	2016.12.28	1450	2	regular	na	na	watery	orange	25				seq_1
+magic.0018	magic.100.018	104	na	no	2017.01.03	2016.12.28	900	2	regular	na	na	watery	orange	25				seq_1
+magic.0019	magic.100.019	106	na	no	2017.01.03	2016.12.29	921	2	regular	na	na	watery	green	50			was gelatinous	
+magic.0020	magic.100.020	104	na	no	2017.01.03	2016.12.21	1957	1	regular	na	na	watery	brown	50				seq_1
+magic.0021	magic.100.021	109	na	no	2017.01.03	2016.12.29	2249	1	regular	na	na	watery	brown	75				seq_1
+magic.0022	magic.100.022	101	na	no	2017.01.03	na	na	3	na	na	na	na	na	na			no metadata	
+magic.0023	magic.100.023	102	na	no	2017.01.03	2016.12.26	1855	2	regular	na	na	soft	orange	75				
+magic.0024	magic.100.024	107	6	yes	2017.01.03	2016.12.19	1705	na	na	na	na	na	na	na				
+magic.0025	magic.100.025	107	7	yes	2017.01.03	2016.12.20	407	na	na	na	na	na	na	na				
+magic.0026	magic.100.026	109	8	yes	2017.01.03	2016.12.23	2220	na	na	na	na	na	na	na				
+magic.0027	magic.100.027	109	9	yes	2017.01.03	2016.12.24	1105	na	na	na	na	na	na	na				
+magic.0028	magic.100.028	108	1	yes	2017.01.03	2016.12.20	1620	na	na	na	na	na	na	na				seq_1
+magic.0029	magic.100.029	108	3	yes	2017.01.03	2016.12.20	2300	na	na	na	na	na	na	na				
+magic.0030	magic.100.030	119	10	yes	2017.01.23	2017.01.11	900	na	na	na	na	na	na	na				seq_1
+magic.0031	magic.100.031	119	13	yes	2017.01.23	2017.01.12	145	na	na	na	na	na	na	na				
+magic.0032	magic.100.032	122	4	yes	2017.01.23	2017.01.13	2350	na	na	na	na	na	na	na				
+magic.0033	magic.100.033	122	3	yes	2017.01.23	2017.01.13	1511	na	na	na	na	na	na	na				
+magic.0034	magic.100.034	117	13	yes	2017.01.23	2017.01.07	930	na	na	na	na	na	na	na				
+magic.0035	magic.100.035	117	11	yes	2017.01.23	2017.01.06	2100	na	na	na	na	na	na	na				
+magic.0036	magic.100.036	116	6	yes	2017.01.23	2017.01.06	1550	na	na	na	na	na	na	na				
+magic.0037	magic.100.037	115	7	yes	2017.01.23	2017.01.06	1000	na	na	na	na	na	na	na				
+magic.0038	magic.100.038	119	na	no	2017.01.23	2017.01.16	424	1	regular	na	na	soft	yellow	50				
+magic.0039	magic.100.039	120	na	yes	2017.01.23	2017.01.12	1250	na	na	na	na	na	na	na				
+magic.0040	magic.100.040	117	na	no	2017.01.23	2017.01.13	1100	1	regular	na	na	soft	na	50				seq_1
+magic.0041	magic.100.041	115	na	no	2017.01.23	2017.01.11	1330	1	regular	na	na	soft	yellow	10				
+magic.0042	magic.100.042	101	na	no	2017.01.23	na	na	na	na	na	na	na	na	na			no metadata	
+magic.0043	magic.100.043	109	na	no	2017.01.23	2017.01.05	1754	2	regular	na	na	watery	brown	50				
+magic.0044	magic.100.044	105	na	no	2017.01.23	2017.01.04	2137	3	regular	na	na	watery	orange	25				
+magic.0045	magic.100.045	106	na	no	2017.01.23	2017.01.05	910	3	regular	na	na	watery	yellow	50				
+magic.0046	magic.100.046	111	na	yes	2017.01.23	2016.12.29	2350	0	regular	na	na	watery	brown	50				
+magic.0047	magic.100.047	111	na	yes	2017.01.23	2016.12.30	310	0	regular	na	na	watery	brown	75				
+magic.0048	magic.100.048	104	na	no	2017.01.23	2017.01.04	1344	3	regular	na	na	watery	orange 	25				seq_1
+magic.0049	magic.100.049	102	na	no	2017.01.23	2017.01.02	1050	3	regular	na	na	soft	orange	50				
+magic.0050	magic.100.050	107	na	no	2017.01.23	2017.01.01	1754	2	regular	na	na	watery 	yellow	25				seq_1
+magic.0051	magic.100.051	102	na	no	2017.01.23	2016.01.11	2130	4	regular	na	na	watery	orange	25				
+magic.0052	magic.100.052	116	na	no	2017.01.23	2017.01.12	2319	1	regular	na	na	soft	brown	10				
+magic.0053	magic.100.053	111	na	no	2017.01.23	2017.01.10	1745	2	regular	na	na	watery	yellow	50				seq_1
+magic.0054	magic.100.054	108	na	no	2017.01.23	na	na	na	na	na	na	na	na	na			no metadata	
+magic.0055	magic.100.055	110	5	yes	2017.01.23	2016.12.29	450	na	na	na	na	na	na	na				
+magic.0056	magic.100.056	113	9	yes	2017.01.23	2016.12.30	1550	na	na	na	na	na	na	na				
+magic.0057	magic.100.057	110	4	yes	2017.01.23	2016.12.28	2300	na	na	na	na	na	na	na				
+magic.0058	magic.100.058	113	na	no	2017.01.23	2017.01.05	820	1	regular	na	na	watery	yellow	50				
+magic.0059	magic.100.059	111	1	yes	2017.01.23	2017.01.03	2250	1	regular	na	na	soft	yellow	75				seq_1
+magic.0060	magic.100.060	107	na	no	2017.01.23	2017.01.09	1430	3	regular	na	na	soft	orange	75				
+magic.0061	magic.100.061	113	na	no	2017.01.23	2017.01.13	130	2	regular 	na	na	watery	yellow	50				
+magic.0062	magic.100.062	106	na	no	2017.01.23	2017.01.12	1130	4	regular 	na	na	watery	yellow	75				
+magic.0063	magic.100.063	109	na	no	2017.01.23	2017.01.13	1512	3	regular	na	na	watery	brown	75				seq_1
+magic.0064	magic.100.064	105	na	no	2017.01.23	2017.01.11	2125	4	regular	na	na	watery	yellow	50				
+magic.0065	magic.100.065	108	na	no	2017.01.23	na	na	3	na	na	na	na	na	na			most metadata not provided	
+magic.0066	magic.100.066	108	na	no	2017.01.23	na	na	2	na	na	na	na	na	na			most metadata not provided	
+magic.0067	magic.100.067	123	na	no	2017.02.03	2017.01.22	800	1	regular	na	na	soft	yellow	50			antibiotics exposure checked but no timeline given	
+magic.0068	magic.100.068	125	6	yes	2017.02.03	2017.01.19	620	na	na	na	na	na	na	na	Meconium			
+magic.0069	magic.100.069	125	13	yes	2017.02.03	2017.01.21	320	na	na	na	na	na	na	na	Transitional			
+magic.0070	magic.100.070	124	na	yes	2017.02.03	2017.01.18	1835	na	na	na	na	na	na	na	Meconium			
+magic.0071	magic.100.071	126	6	yes	2017.02.03	2017.01.19	500	na	na	na	na	na	na	na	Transitional			
+magic.0072	magic.100.072	126	3	yes	2017.02.03	2017.01.18	1845	na	na	na	na	na	na	na	Transitional			
+magic.0073	magic.100.073	127	1	yes	2017.02.03	2017.01.21	1115	na	na	na	na	na	na	na	Transitional		"was actually a home sample, without a week"	
+magic.0074	magic.100.074	119	na	no	2017.02.03	2017.01.23	1628	2	regular	na	na	soft	yellow	25	na			
+magic.0075	magic.100.075	111	na	no	2017.02.03	2017.01.26	905	4	regular	na	na	soft	orange	75	na			seq_1
+magic.0076	magic.100.076	123	na	no	2017.02.03	2017.01.29	1230	2	regular	na	na	watery	yellow	50	na			
+magic.0077	magic.100.077	109	na	no	2017.02.03	2017.01.19	1500	4	regular	na	na	watery	brown	50	na			
+magic.0078	magic.100.078	104	na	no	2017.02.03	2017.01.11	2148	4	regular	na	na	watery	orange	25	na			seq_1
+magic.0079	magic.100.079	120	na	no	2017.02.03	2017.01.17	2015	1	regular	na	na	soft	yellow	75	na			seq_1
+magic.0080	magic.100.080	107	na	no	2017.02.03	2017.01.14	2130	4	regular	na	na	soft	orange	75	na			
+magic.0081	magic.100.081	136	na	no	2017.02.10	2017.02.06	1920	1	regular	na	na	soft/watery	yellow	50			they marked two types of consistency	
+magic.0082	magic.100.082	138	na	no	2017.02.10	2017.02.03	1900	1	regular	na	na	soft	meconium	50				
+magic.0083	magic.100.083	119	na	no	2017.02.10	2017.02.06	1400	4	regular	na	na	soft	yellow	25				
+magic.0084	magic.100.084	124	na	no	2017.02.10	2017.02.02	1900	2	Abx	prior	0	soft	yellow	50				
+magic.0085	magic.100.085	122	na	no	2017.02.10	2017.02.02	1015	3	regular	na	na	watery	yellow	75				
+magic.0086	magic.100.086	138	na	no	2017.02.10	2017.02.06	1805	1	regular	na	na	formed	yellow	25				
+magic.0087	magic.100.087	138	na	no	2017.02.10	2017.02.05	1830	1	regular	na	na	soft	yellow	75			two samples one day apart?	
+magic.0088	magic.100.088	138	na	no	2017.02.10	2017.02.07	1415	1	regular	na	na	formed	yellow	50			third sample same week	
+magic.0089	magic.100.089	116	na	no	2017.02.10	2017.02.02	2035	4	regular	na	na	formed	yellow/green	50			marked two colors for stool	
+magic.0090	magic.100.090	131	na	no	2017.02.10	2017.02.02	1930	1	regular	na	na	watery	yellow	25				
+magic.0091	magic.100.091	133	3	yes	2017.02.10	2017.01.31	1750	na	na	na	na	na	na	na	Transitional			
+magic.0092	magic.100.092	132	9	yes	2017.02.10	2017.01.31	830	na	na	na	na	na	na	na	Meconium			
+magic.0093	magic.100.093	133	5	yes	2017.02.10	2017.01.31	2300	na	na	na	na	na	na	na	Meconium			
+magic.0094	magic.100.094	136	10	yes	2017.02.10	2017.02.01	1950	na	na	na	na	na	na	na	Meconium			
+magic.0095	magic.100.095	132	8	yes	2017.02.10	2017.01.30	1450	na	na	na	na	na	na	na	Transitional			
+magic.0096	magic.100.096	131	6	yes	2017.02.10	2017.01.27	1545	na	na	na	na	na	na	na	Meconium			
+magic.0097	magic.100.097	136	na	yes	2017.02.10	2017.02.01	2120	na	na	na	na	na	na	na	Meconium			
+magic.0098	magic.100.098	130	8	yes	2017.02.10	2017.01.28	45	na	na	na	na	na	na	na	Transitional			
+magic.0099	magic.100.099	130	6	yes	2017.02.10	2017.01.27	1625	na	na	na	na	na	na	na	Meconium			
+magic.0100	magic.100.100	137	3	yes	2017.02.10	2017.02.02	940	na	na	na	na	na	na	na	Transitional		"Ambiguous labeling of time, pretty sure its AM though."	seq_1
+magic.0101	magic.100.101	135	6	yes	2017.02.10	2017.02.02	330	na	na	na	na	na	na	na	Transitional			seq_1
+magic.0102	magic.100.102	135	5	yes	2017.02.10	2017.02.01	1829	na	na	na	na	na	na	na	Transitional			
+magic.0103	magic.100.103	127	na	no	2017.02.10	2017.02.03	1938	2	regular	na	na	soft	yellow	50				
+magic.0104	magic.100.104	117	na	no	2017.02.10	2017.02.02	2300	4	regular	na	na	soft	yellow	75				
+magic.0105	magic.100.105	134	na	no	2017.02.10	2017.02.02	1647	0	regular	na	na	watery	brown	75				
+magic.0106	magic.100.106	115	na	no	2017.02.10	2017.01.02	1100	3	regular	na	na	soft	yellow	10			Date could actually be Feb 1st	
+magic.0107	magic.100.107	120	na	no	2017.02.10	2017.01.31	1300	3	regular	na	na	watery	yellow	75				
+magic.0108	magic.100.108	119	na	no	2017.02.10	2017.01.30	1700	3	regular	na	na	soft	yellow	25				
+magic.0109	magic.100.109	115	na	no	2017.02.10	2017.01.18	1617	2	regular	na	na	soft	yellow	10				seq_1
+magic.0110	magic.100.110	111	na	no	2017.02.10	2017.01.17	1917	3	regular	na	na	watery	orange	50				seq_1
+magic.0111	magic.100.111	117	na	no	2017.02.10	2017.01.19	1930	2	regular	na	na	soft	yellow	50				
+magic.0112	magic.100.112	122	na	no	2017.02.13	2017.01.26	1600	2	regular	na	na	watery	yellow	75				seq_1
+magic.0113	magic.100.113	137	na	no	2017.02.13	2017.02.07	1218	1	regular	na	na	soft	yellow	25				
+magic.0114	magic.100.114	123	na	no	2017.02.13	2017.02.05	1230	3	regular	na	na	soft	yellow	50				
+magic.0115	magic.100.115	120	na	no	2017.02.13	2017.02.08	1014	4	Abx	after	1	watery	yellow	50			Subject denoted tamiflu was being taken; not an antibiotic	
+magic.0116	magic.100.116	142	na	no	2017.02.13	2017.02.10	350	1	regular	na	na	soft	meconium	25			"Subject noted date as ""9-10-2017"", assumed that sample was collected in February"	
+magic.0117	magic.100.117	126	na	no	2017.02.13	2017.02.07	2100	3	regular	na	na	watery	yellow	50				
+magic.0118	magic.100.118	135	na	no	2017.02.13	2017.02.07	1800	1	regular	na	na	soft	green	10				
+magic.0119	magic.100.119	115	na	no	2017.02.13	2017.01.25	1130	3	regular	na	na	soft	yellow	25				
+magic.0120	magic.100.120	120	na	no	2017.02.13	2017.01.24	1615	2	regular	na	na	watery	yellow	50				
+magic.0121	magic.100.121	125	na 	no	2017.02.13	2017.01.25	1030	na	na	na	na	na	na	na			Most metadata unavailable	
+magic.0122	magic.100.122	116	na	no	2017.02.13	2017.01.26	930	3	regular	na	na	soft	yellow	50				
+magic.0123	magic.100.123	126	na	no	2017.02.13	2017.01.24	1530	1	regular	na	na	soft	yellow	50				
+magic.0124	magic.100.124	124	3	no	2017.02.13	2017.01.20	na	na	regular 	na	na	soft	brown	25	Transitional		Patient sample; was transitional stool	seq_1
+magic.0125	magic.100.125	124	na	no	2017.02.13	2017.01.25	2132	1	regular	na	na	watery	yellow	75			Brown was also selected	
+magic.0126	magic.100.126	122	na	no	2017.02.13	2017.01.19	1900	1	regular 	na	na	watery	yellow	75				
+magic.0127	magic.100.127	123	na 	yes	2017.02.13	2017.01.18	123	1	regular	na	na	soft	meconium	50	Meconium		Hospital sample yet home metadata provided (home after hospital)	
+magic.0128	magic.100.128	116	na	no	2017.02.13	2017.01.19	2200	2	regular	na	na	soft	green	75				
+magic.0129	magic.100.129	na	na	no	2017.02.13	na	na	na	na	na	na	na	na	na	na		No metadata or patient number provided (Mystery sample 1)	
+magic.0130	magic.100.130	na	na	no	2017.02.13	2017.02.07	2206	na	na	na	na	na	na	na	na		Almost no metadata and no patient number provided (Mystery sample 2)	
+magic.0131	magic.100.131	127	na	no	2017.02.20	2017.02.09	1700	3	regular	na	na	soft	yellow	50				seq_1
+magic.0132	magic.100.132	131	na	no	2017.02.20	2017.02.09	2345	2	regular	na	na	soft	yellow	25				seq_1
+magic.0133	magic.100.133	122	na	no	2017.02.20	2017.02.09	1230	4	regular	na	na	watery	yellow	75				
+magic.0134	magic.100.134	133	na	no	2017.02.20	2017.02.13	na	2	regular	na	na	soft	yellow	50			No collection time provided	seq_1
+magic.0135	magic.100.135	126	na	no	2017.02.20	2017.01.31	1500	2	regular	na	na	soft	yellow	50				
+magic.0136	magic.100.136	117	na	no	2017.02.20	2017.01.26	900	3	regular	na	na	soft	yellow	25				
+magic.0137	magic.100.137	140	na	yes	2017.02.20	2017.02.08	1108	na	na	na	na	na	na	na	Transitional			
+magic.0138	magic.100.138	139	9	yes	2017.02.20	2017.02.07	735	na	na	na	na	na	na	na	na		Stool type not filled out	
+magic.0139	magic.100.139	139	13	yes	2017.02.20	2017.02.08	1300	na	na	na	na	na	na	na	Meconium			
+magic.0140	magic.100.140	140	15	yes	2017.02.20	2017.02.07	1900	na	na	na	na	na	na	na	Meconium			
+magic.0141	magic.100.141	144	6	yes	2017.02.20	2017.02.14	1000	na	na	na	na	na	na	na	Transitional			
+magic.0142	magic.100.142	143	8	yes	2017.02.20	2017.02.09	2005	na	na	na	na	na	na	na	Meconium			
+magic.0143	magic.100.143	141	10	yes	2017.02.20	2017.02.09	1010	na	na	na	na	na	na	na	Transitional			
+magic.0144	magic.100.144	143	11	yes	2017.02.20	2017.02.10	1715	na	na	na	na	na	na	na	Transitional			
+magic.0145	magic.100.145	145	na	no	2017.02.20	2017.02.10	1307	na	regular	na	na	soft	orange	50			"Timeline in weeks not given; note on form as follows: ""only one sample was collected in the hospital. as asked to send follow-up from home"	
+magic.0146	magic.100.146	123	na	no	2017.02.20	2017.02.12	1100	4	Abx	after	30	watery	yellow	75				seq_1
+magic.0147	magic.100.147	na	na	no	2017.02.20	na	na	na	na	na	na	na	na	na			No metadata or patient number	
+magic.0148	magic.100.148	124	na	no	2017.02.20	2017.02.11	1800	3	regular	na	na	soft	yellow	50				seq_1
+magic.0149	magic.100.149	140	na	no	2017.02.20	2017.02.13	1655	1	regular	na	na	watery	brown	25				seq_1
+magic.0150	magic.100.150	127	na	no	2017.02.20	2017.01.28	1845	1	regular	na	na	soft	yellow	50				seq_1
+magic.0151	magic.100.151	126	na	no	2017.02.24	2017.02.14	1520	4	regular	na	na	formed	yellow	50				
+magic.0152	magic.100.152	141	na	no	2017.02.24	2017.02.15	543	1	regular	na	na	soft	yellow	50				
+magic.0153	magic.100.153	na	na	no	2017.02.24	na	na	na	na	na	na	na	na	na			No metadata or patient number	
+magic.0154	magic.100.154	131	na	no	2017.02.24	2017.02.16	1830	3	regular	na	na	watery	orange	10				
+magic.0155	magic.100.155	144	na	no	2017.02.24	2017.02.19	2230	1	regular	na	na	soft	orange	25				
+magic.0156	magic.100.156	140	na	no	2017.02.24	2017.02.20	815	2	regular	na	na	watery	yellow	10			Time was ambigous	seq_1
+magic.0157	magic.100.157	147	na	no	2017.02.24	2017.02.16	1445	0	regular	na	na	hard	meconium	50	Meconium			
+magic.0158	magic.100.158	137	na	no	2017.02.27	2017.02.14	2300	2	regular	na	na	soft	yellow	50				
+magic.0159	magic.100.159	124	na	no	2017.02.27	2017.02.15	1600	4	regular	na	na	watery	yellow	75				
+magic.0160	magic.100.160	135	na	no	2017.02.27	2017.02.14	2000	2	regular	na	na	watery	green	10				
+magic.0161	magic.100.161	143	na	no	2017.02.27	2017.02.15	1835	1	regular	na	na	soft	orange	75				
+magic.0162	magic.100.162	136	na	no	2017.02.27	2017.02.13	1100	2	regular	na	na	soft	yellow	50				
+magic.0163	magic.100.163	138	na	no	2017.02.27	2017.02.14	1530	2	regular	na	na	soft	yellow	50				
+magic.0164	magic.100.164	136	na	no	2017.03.03	2017.02.20	1135	3	regular	na	na	soft	yellow	25				seq_1
+magic.0165	magic.100.165	150	na	no	2017.03.03	2017.02.22	1600	1	regular	na	na	soft	orange	50				
+magic.0166	magic.100.166	149	na	no	2017.03.03	2017.02.23	1230	1	regular	na	na	soft	orange	50				
+magic.0167	magic.100.167	148	na	no	2017.03.03	2017.02.23	1726	1	regular	na	na	soft	yellow	75				
+magic.0168	magic.100.168	151	na	no	2017.03.03	2017.02.26	800	1	regular	na	na	watery	yellow	50				
+magic.0169	magic.100.169	132	na	na	2017.03.03	na	na	na	na	na	na	na	na	na			"No metadata, patient number taken from vial"	
+magic.0170	magic.100.170	144	na	no	2017.03.03	2017.02.26	821	2	regular	na	na	soft	orange	50				seq_1
+magic.0171	magic.100.171	137	na	no	2017.03.03	2017.02.21	2145	3	regular	na	na	soft	yellow	50				
+magic.0172	magic.100.172	141	na	no	2017.03.03	2017.02.22	1030	2	regular	na	na	soft	yellow	75			"Both ""smear"" and ""More than 50%"" were marked."	
+magic.0173	magic.100.173	150	na	no	2017.03.06	2017.03.01	1430	2	regular	na	na	soft	green	10				seq_1
+magic.0174	magic.100.174	148	na	no	2017.03.06	2017.03.02	1729	2	regular	na	na	watery	orange	50				
+magic.0175	magic.100.175	136	na	no	2017.03.06	2017.02.27	430	4	regular	na	na	soft	yellow	75				
+magic.0176	magic.100.176	141	na	no	2017.03.06	2017.02.28	na	3	regular	na	na	watery	yellow	25			No collection time provided	
+magic.0177	magic.100.177	133	na	no	2017.03.06	2017.02.27	1800	4	regular	na	na	soft	yellow	25				
+magic.0178	magic.100.178	149	na	no	2017.03.06	2017.03.02	1705	2	regular	na	na	watery	orange	75				
+magic.0179	magic.100.179	140	na	no	2017.03.06	2017.02.27	1810	3	regular	na	na	watery	brown	50				seq_1
+magic.0180	magic.100.180	147	na	no	2017.03.06	2017.02.21	2100	1	regular	na	na	soft	orange	50				
+magic.0181	magic.100.181	143	na	no	2017.03.06	2017.02.22	1400	2	regular	na	na	watery	orange	75				
+magic.0182	magic.100.182	142	na	no	2017.03.06	2017.02.22	1125	2	regular	na	na	watery	brown	50				
+magic.0183	magic.100.183	127	na	no	2017.03.06	2017.02.15	1700	4	regular	na	na	soft	green	10				
+magic.0184	magic.100.184	145	na	no	2017.03.06	2017.02.20	1600	1	regular	na	na	soft	orange	50				
+magic.0185	magic.100.185	135	na	no	2017.03.06	2017.02.21	1600	3	regular	na	na	soft	yellow	25				seq_1
+magic.0186	magic.100.186	151	7	yes	2017.03.06	2017.02.21	30	na	na	na	na	na	na	na	Meconium			
+magic.0187	magic.100.187	148	3	yes	2017.03.06	2017.02.16	2350	na	na	na	na	na	na	na	Meconium			
+magic.0188	magic.100.188	150	13	yes	2017.03.06	2017.02.18	1400	na	na	na	na	na	na	na	Transitional			
+magic.0189	magic.100.189	149	2	yes	2017.03.06	2017.02.17	1425	na	na	na	na	na	na	na	Meconium			seq_1
+magic.0190	magic.100.190	149	4	yes	2017.03.06	2017.02.17	2200	na	na	na	na	na	na	na	Meconium			
+magic.0191	magic.100.191	151	4	yes	2017.03.06	2017.02.20	1545	na	na	na	na	na	na	na	Meconium			
+magic.0192	magic.100.192	150	8	yes	2017.03.06	2017.02.17	1615	na	na	na	na	na	na	na	Transitional			
+magic.0193	magic.100.193	145	4	yes	2017.03.06	2017.02.15	1150	na	na	na	na	na	na	na	Meconium			
+magic.0194	magic.100.194	146	na	no	2017.03.10	na	na	na	na	na	na	na	na	na			no metadata sheet	
+magic.0195	magic.100.195	131	na	no	2017.03.10	2017.02.23	1200	4	regular	na	na	watery	orange	10				
+magic.0196	magic.100.196	na	na	no	2017.03.10	na	na	na	na	na	na	na	na	na			no metadata sheet	
+magic.0197	magic.100.197	147	na	no	2017.03.10	2017.02.28	2030	2	regular	na	na	soft	yellow	50				
+magic.0198	magic.100.198	145	na	no	2017.03.10	2017.02.27	1930	2	regular	na	na	soft	orange	50				
+magic.0199	magic.100.199	140	na	no	2017.03.10	2017.03.06	905	4	regular	na	na	watery	brown	50			"ambiguous time, written  date was ""5/6/2017"",  changed to ""3/6"" after corroborating"	
+magic.0200	magic.100.200	142	na	no	2017.03.10	2017.03.06	2146	4	Abx	prior	0	soft	yellow	50				
+magic.0201	magic.100.201	138	na	no	2017.03.10	2017.03.01	1800	4	regular	na	na	formed	green	25				
+magic.0202	magic.100.202	156	8	yes	2017.03.20	2017.03.03	1110	na	na	na	na	na	na	na	Transitional			
+magic.0203	magic.100.203	155	5	yes	2017.03.20	2017.03.02	2100	na	na	na	na	na	na	na	Meconium			
+magic.0204	magic.100.204	154	10	yes	2017.03.20	2017.03.02	1010	na	na	na	na	na	na	na	Transitional			
+magic.0205	magic.100.205	153	10	yes	2017.03.20	2017.02.28	2020	na	na	na	na	na	na	na	Transitional			
+magic.0206	magic.100.206	152	11	yes	2017.03.20	2017.02.24	330	na	na	na	na	na	na	na	Meconium			
+magic.0207	magic.100.207	143	na	no	2017.03.20	2017.03.01	1000	3	regular	na	na	soft	orange	50				
+magic.0208	magic.100.208	158	na	yes	2017.03.20	2017.03.08	1445	0	regular	na	na	soft	na	50	Meconium			
+magic.0209	magic.100.209	150	na	no	2017.03.20	2017.03.08	1900	3	regular	na	na	soft	green	50				
+magic.0210	magic.100.210	145	na	no	2017.03.20	2017.03.06	1730	3	regular	na	na	soft	orange	50				
+magic.0211	magic.100.211	157	na	yes	2017.03.20	2017.03.05	1200	1	regular	na	na	watery	brown	10	Transitional			
+magic.0212	magic.100.212	157	na	no	2017.03.20	2017.03.08	1035	1	regular	na	na	watery	orange	10				
+magic.0213	magic.100.213	141	na	no	2017.03.20	2017.03.07	630	4	regular	na	na	watery	yellow	25				
+magic.0214	magic.100.214	155	na	no	2017.03.20	2017.03.08	2350	1	regular	na	na	watery	brown	10				
+magic.0215	magic.100.215	151	na	no	2017.03.20	2017.03.05	1400	2	regular	na	na	watery	yellow	75				
+magic.0216	magic.100.216	153	na	no	2017.03.20	2017.03.05	2300	1	regular	na	na	watery	yellow	25				
+magic.0217	magic.100.217	143	na	no	2017.03.20	2017.03.08	1100	4	regular	na	na	soft	orange	50				seq_1
+magic.0218	magic.100.218	148	na	no	2017.03.20	2017.03.09	1122	3	regular	na	na	soft	yellow	75				
+magic.0219	magic.100.219	137	na	no	2017.03.20	2017.02.28	2300	4	regular	na	na	soft	yellow	10			Baby's stool frequency and amount greatly decreased around 4 weeks of age	
+magic.0220	magic.100.220	142	na	no	2017.03.20	2017.01.03	1049	3	Abx	prior	0	watery	green	50				
+magic.0221	magic.100.221	147	na	no	2017.03.20	2017.03.08	1145	3	regular	na	na	watery	orange	50				
+magic.0222	magic.100.222	135	na	no	2017.03.20	2017.02.28	1800	4	regular	na	na	watery	yellow	10				
+magic.0223	magic.100.223	144	na	no	2017.03.20	2017.03.05	1250	3	regular	na	na	watery	orange	50				
+magic.0224	magic.100.224	na	na	yes	2017.03.20	na	na	na	na	na	na	na	na	na	na		Mystery sample - hospital sample with no metedata whatsoever	
+magic.0225	magic.100.225	158	na	no	2017.03.24	2017.03.13	1645	1	regular	na	na	watery	yellow	50				
+magic.0226	magic.100.226	160	na	no	2017.03.24	2017.03.15	1745	1	regular	na	na	soft	orange	25				
+magic.0227	magic.100.227	151	na	no	2017.03.24	2017.03.12	2300	3	regular	na	na	watery	yellow	50			Both watery/soft and yellow/green were checked	
+magic.0228	magic.100.228	105	na	no	2017.03.24	2017.03.15	1700	12	regular	na	na	watery	orange	25				
+magic.0229	magic.100.229	150	na	no	2017.03.24	2017.03.15	1600	4	regular	na	na	soft	green	75				
+magic.0230	magic.100.230	102	na	no	2017.03.24	2017.03.12	1145	12	regular	na	na	soft	orange	75			"Came in a sealed hospital bag, but no hospital idenification. Treated as a home sample beause of the metadata sheet."	
+magic.0231	magic.100.231	104	na	no	2017.03.24	2017.03.14	1500	12	regular	na	na	watery	orange	50				seq_1
+magic.0232	magic.100.232	144	na	no	2017.03.24	2017.03.12	1352	4	regular	na	na	watery	brown	10			"Came in a sealed hospital bag, but no hospital idenification. Treated as a home sample beause of the metadata sheet."	seq_1
+magic.0233	magic.100.233	155	na	no	2017.03.24	2017.03.15	2200	2	regular	na	na	watery	brown	75				
+magic.0234	magic.100.234	153	na	no	2017.03.24	2017.03.12	2345	2	regular	na	na	soft	yellow	10			yellow and green selected	
+magic.0235	magic.100.235	148	na	no	2017.03.24	2017.03.16	1726	4	regular	na	na	soft	orange	25				
+magic.0236	magic.100.236	147	na	no	2017.03.24	2017.03.14	1900	4	regular	na	na	watery	orange	10				
+magic.0237	magic.100.237	159	na	no	2017.03.24	2017.03.17	1930	1	regular	na	na	soft	yellow	50			yellow and brown selected	
+magic.0238	magic.100.238	162	6	yes	2017.03.24	2017.03.14	955	na	na	na	na	na	na	na	Transitional			
+magic.0239	magic.100.239	159	9	yes	2017.03.24	2017.03.09	1200	na	na	na	na	na	na	na	Transitional		AM/PM not given	
+magic.0240	magic.100.240	160	8	yes	2017.03.24	2017.03.10	1105	na	na	na	na	na	na	na	Transitional		AM/PM not given	
+magic.0241	magic.100.241	162	5	yes	2017.03.24	2017.03.14	405	na	na	na	na	na	na	na	Transitional			
+magic.0242	magic.100.242	151	na	no	2017.03.27	2017.03.19	1600	4	regular	na	na	watery	orange	50				seq_1
+magic.0243	magic.100.243	149	na	no	2017.03.27	2017.03.17	1300	4	regular	na	na	watery	yellow	75				seq_1
+magic.0244	magic.100.244	145	na	no	2017.03.27	2017.01.13	1140	4	regular	na	na	watery	orange	75				seq_1
+magic.0245	magic.100.245	149	na	no	2017.03.27	2017.03.09	800	3	regular	na	na	watery	yellow	75				
+magic.0246	magic.100.246	107	na	no	2017.03.27	2017.03.14	1145	12	regular	na	na	watery	yellow	50				seq_1
+magic.0247	magic.100.247	106	na	no	2017.03.27	2017.03.14	1410	12	regular	na	na	watery	orange	75				
+magic.0248	magic.100.248	157	na	no	2017.03.27	2017.03.14	1700	2	regular	na	na	watery	orange	75				
+magic.0249	magic.100.249	161	na	no	2017.03.27	2017.03.15	1629	1	regular	na	na	watery	orange	25				
+magic.0250	magic.100.250	156	na	no	2017.03.27	2017.03.16	1400	2	regular	na	na	watery	yellow	75				
+magic.0251	magic.100.251	167	na	no	2017.03.27	2017.03.17	1530	na	regular	na	na	soft	brown	10			"No timeline given; note present that says ""first sample"""	
+magic.0252	magic.100.252	164	na	no	2017.03.27	2017.03.18	700	1	regular	na	na	soft	yellow	50				
+magic.0253	magic.100.253	158	na	no	2017.03.27	2017.03.20	2005	2	regular	na	na	watery	na	25				
+magic.0254	magic.100.254	na	na	na	2017.03.27	na	na	na	na	na	na	na	na	na			Mystery sample - no metadata found	
+magic.0255	magic.100.255	153	na	no	2017.03.27	2017.03.19	2200	3	regular	na	na	soft	yellow	25				
+magic.0256	magic.100.256	159	na	no	2017.03.27	2017.03.21	730	2	regular	na	na	watery	brown	75				
+magic.0257	magic.100.257	165	7	yes	2017.03.27	2017.03.16	1324	na	na	na	na	na	na	na	Transitional			
+magic.0258	magic.100.258	166	12	yes	2017.03.27	2017.03.17	915	na	na	na	na	na	na	na	Meconium			
+magic.0259	magic.100.259	165	8	yes	2017.03.27	2017.03.17	220	na	na	na	na	na	na	na	Transitional			
+magic.0260	magic.100.260	168	7	yes	2017.03.27	2017.03.18	1400	na	na	na	na	na	na	na	Meconium			
+magic.0261	magic.100.261	169	3	yes	2017.03.27	2017.03.19	750	na	na	na	na	na	na	na	Meconium			
+magic.0262	magic.100.262	166	7	yes	2017.03.27	2017.03.16	1330	na	na	na	na	na	na	na	Meconium			
+magic.0263	magic.100.263	168	11	yes	2017.03.27	2017.03.19	500	na	na	na	na	na	na	na	Meconium			
+magic.0264	magic.100.264	167	na	no	2017.03.31	2017.03.24	322	1	regular	na	na	soft	yellow	50			Came in a completely clear bag	
+magic.0265	magic.100.265	165	na	no	2017.03.31	2017.03.21	1840	1	regular	na	na	watery	yellow	50			Came in a completely clear bag	
+magic.0266	magic.100.266	162	na	no	2017.03.31	2017.03.19	1300	1	regular	na	na	soft	orange	50			Came in a completely clear bag	
+magic.0267	magic.100.267	157	na	no	2017.03.31	2017.03.22	745	3	regular	na	na	watery	orange	10				
+magic.0268	magic.100.268	155	na	no	2017.03.31	2017.03.22	1715	3	regular	prior	na	watery	yellow	50			Came in a completely clear bag	seq_1
+magic.0269	magic.100.269	166	na	no	2017.03.31	2017.03.22	1820	1	regular	na	na	soft	orange	50			Came in a completely clear bag	
+magic.0270	magic.100.270	170	na	no	2017.03.31	2017.03.25	730	1	regular	na	na	watery	green	50			Came in a completely clear bag	
+magic.0271	magic.100.271	109	na	no	2017.03.31	2017.03.14	550	12	regular	na	na	watery	orange	75			No AM/PM for time	
+magic.0272	magic.100.272	158	na	no	2017.04.03	2017.03.27	1300	3	regular	na	na	watery	orange	50				seq_1
+magic.0273	magic.100.273	153	na	no	2017.04.03	2017.03.26	730	4	regular	na	na	soft	green	25			New metadata form - was a half sheet. All pertinent info. given	
+magic.0274	magic.100.274	159	na	no	2017.04.03	2017.03.28	110	3	regular	na	na	soft	green	50				
+magic.0275	magic.100.275	169	na	no	2017.04.03	2017.03.27	1210	1	regular	na	na	watery	orange	75				
+magic.0276	magic.100.276	167	na	no	2017.04.03	2017.03.29	1758	2	regular	na	na	soft	yellow	50				
+magic.0277	magic.100.277	168	na	no	2017.04.03	2017.03.30	1515	1	Abx	prior	0	watery	yellow	50			Both regularly scheduled sample and antibiotic exposure sample checked	
+magic.0278	magic.100.278	155	na	no	2017.04.03	2017.03.31	700	4	regular	na	na	watery	brown	75				seq_1
+magic.0279	magic.100.279	161	na	no	2017.04.03	2017.03.30	930	3	regular	na	na	soft	yellow	75				
+magic.0280	magic.100.280	166	na	no	2017.04.03	2017.03.30	1140	2	regular	na	na	soft	orange	50				
+magic.0281	magic.100.281	170	na	no	2017.04.03	2017.04.04	845	2	regular	na	na	soft	orange	50				
+magic.0282	magic.100.282	156	na	no	2017.04.10	2017.03.22	1650	3	regular	na	na	watery	yellow	75				
+magic.0283	magic.100.283	162	na	no	2017.04.10	2017.03.26	930	2	regular	na	na	soft	orange	25				
+magic.0284	magic.100.284	161	na	no	2017.04.10	2017.03.22	1652	2	regular	na	na	soft	yellow	25				
+magic.0285	magic.100.285	165	na	no	2017.04.10	2017.03.29	1345	2	regular	na	na	watery	yellow	50				
+magic.0286	magic.100.286	156	na	no	2017.04.10	2017.03.29	1600	4	regular	na	na	watery	yellow	75				
+magic.0287	magic.100.287	157	na	no	2017.04.10	2017.03.29	1205	4	regular	na	na	watery	orange	10				seq_1
+magic.0288	magic.100.288	111	na	no	2017.04.10	2017.03.28	2010	12	regular	na	na	watery	orange	50				
+magic.0289	magic.100.289	159	na	no	2017.04.10	2017.04.03	700	4	regular	na	na	soft	yellow	50				
+magic.0290	magic.100.290	164	na	no	2017.04.10	2017.04.01	NA	3	Abx	prior	0	soft	yellow	25			No time collected given	seq_1
+magic.0291	magic.100.291	169	na	no	2017.04.10	2017.04.01	2030	2	regular	na	na	soft	yellow	10				
+magic.0292	magic.100.292	164	na	no	2017.04.10	2017.03.25	NA	2	Abx	prior	0	soft	yellow	10				
+magic.0293	magic.100.293	172	5	yes	2017.04.10	2017.03.28	2030	na	na	na	na	na	na	na	Transitional			
+magic.0294	magic.100.294	171	13	yes	2017.04.10	2017.03.28	1200	na	na	na	na	na	na	na	Transitional			
+magic.0295	magic.100.295	175	15	yes	2017.04.10	2017.04.01	1215	na	na	na	na	na	na	na	Meconium			
+magic.0296	magic.100.296	173	10	yes	2017.04.10	2017.03.30	1755	na	na	na	na	na	na	na	Transitional			
+magic.0297	magic.100.297	172	4	yes	2017.04.10	2017.03.28	1215	na	na	na	na	na	na	na	Transitional			
+magic.0298	magic.100.298	174	7	yes	2017.04.10	2017.03.30	1745	na	na	na	na	na	na	na	Meconium			
+magic.0299	magic.100.299	173	11	yes	2017.04.10	2017.03.31	15	na	na	na	na	na	na	na	Transitional			
+magic.0300	magic.100.300	167	na	no	2017.04.14	2017.04.06	857	3	regular	na	na	soft	orange	50				seq_1
+magic.0301	magic.100.301	116	na	no	2017.04.14	2017.04.05	2100	12	regular	na	na	soft	green	25				
+magic.0302	magic.100.302	166	na	no	2017.04.14	2017.04.05	1245	3	regular	na	na	soft	brown	75			Mom started Keflex on 3/28	
+magic.0303	magic.100.303	162	na	no	2017.04.14	2017.04.02	2200	3	regular	na	na	soft	orange	50				
+magic.0304	magic.100.304	172	na	no	2017.04.14	2017.04.02	2230	1	regular	na	na	watery	yellow	50				
+magic.0305	magic.100.305	158	na	no	2017.04.14	2017.04.04	715	4	regular	na	na	watery	orange	75				
+magic.0306	magic.100.306	160	na	no	2017.04.14	2017.03.29	1330	3	regular	na	na	watery	yellow	75			Orange was also selected	
+magic.0307	magic.100.307	160	na	no	2017.04.14	2017.04.05	940	4	regular	na	na	watery	orange	75				seq_1
+magic.0308	magic.100.308	173	na	no	2017.04.14	2017.04.04	2000	1	regular	na	na	na	yellow	10			Nothing was marked for consistency	
+magic.0309	magic.100.309	169	na	no	2017.04.14	2017.04.06	1500	3	regular	na	na	watery	yellow	75				
+magic.0310	magic.100.310	119	na	no	2017.04.14	2017.04.09	1645	12	regular	na	na	watery	green	50				
+magic.0311	magic.100.311	181	na	no	2017.04.14	2017.04.09	1705	0	regular	na	na	watery	orange	50			thought they had to give a sample everyday for first week	
+magic.0312	magic.100.312	168	na	no	2017.04.17	2017.04.08	730	3	Abx	prior	0	soft	yellow	50				
+magic.0313	magic.100.313	167	na	no	2017.04.17	2017.04.13	828	4	regular	na	na	soft	orange	50				
+magic.0314	magic.100.314	168	na	no	2017.04.17	2017.04.13	700	4	Abx	prior	0	soft	green	25				
+magic.0315	magic.100.315	185	na	no	2017.04.17	2017.04.13	850	0	regular	na	na	soft	brown	25			Half sheet	seq_1
+magic.0316	magic.100.316	169	na	no	2017.04.17	2017.04.12	915	4	regular	na	na	watery	yellow	50				seq_1
+magic.0317	magic.100.317	170	na	no	2017.04.17	2017.04.11	1600	3	regular	na	na	watery	yellow	50				seq_1
+magic.0318	magic.100.318	181	na	no	2017.04.17	2017.04.13	1345	1	regular	na	na	soft	orange	75			thought they had to give a sample everyday for first week	
+magic.0319	magic.100.319	180	na	no	2017.04.17	na	na	na	na	na	na	na	na	na			No metadata provided	
+magic.0320	magic.100.320	120	na	no	2017.04.17	2017.04.10	2050	12	regular	na	na	watery	yellow	75				
+magic.0321	magic.100.321	165	na	no	2017.04.17	2017.04.12	1400	4	na	na	na	watery	green	75				
+magic.0322	magic.100.322	162	na	no	2017.04.17	2017.04.09	2330	4	regular	na	na	watery	orange	75				seq_1
+magic.0323	magic.100.323	171	na	no	2017.04.17	2017.04.05	2141	1	regular	na	na	watery	yellow	25				
+magic.0324	magic.100.324	173	na	no	2017.04.17	2017.04.11	2300	2	regular	na	na	soft	yellow	25				
+magic.0325	magic.100.325	172	na	no	2017.04.17	2017.04.09	2210	2	regular	na	na	watery	yellow	25				
+magic.0326	magic.100.326	164	na	no	2017.04.17	2017.04.09	1115	4	Abx	prior	0	soft	green	10				
+magic.0327	magic.100.327	180	na	no	2017.04.17	na	na	na	na	na	na	na	na	na			No metadata provided	
+magic.0328	magic.100.328	181	na	no	2017.04.17	2017.04.10	1315	1	regular	na	na	soft	orange	25			half sheet - thought they had to give a sample everyday for first week	
+magic.0329	magic.100.329	181	na	no	2017.04.17	2017.04.11	1521	1	regular	na	na	soft	orange	50			half sheet thought they had to give a sample everyday for first week	
+magic.0330	magic.100.330	115	na	no	2017.04.17	2017.04.04	1000	12	regular	na	na	watery	green	75				
+magic.0331	magic.100.331	165	na	no	2017.04.17	2017.04.04	1500	3	Abx	prior	0	watery	yellow	50				seq_1
+magic.0332	magic.100.332	160	na	no	2017.04.17	2017.03.22	1655	2	regular	na	na	soft	orange	10				
+magic.0333	magic.100.333	175	na	no	2017.04.17	2017.04.06	1423	1	regular	na	na	watery	orange	50				
+magic.0334	magic.100.334	155	na	no	2017.04.21	2017.04.12	1600	na	Abx	after	2	watery	yellow	10			Antibiotic Half Sheet	seq_1
+magic.0335	magic.100.335	166	na	no	2017.04.21	2017.04.14	1330	4	regular	na	na	soft	brown	50				seq_1
+magic.0336	magic.100.336	172	na	no	2017.04.21	2017.04.16	1810	3	regular	na	na	watery	yellow	50				
+magic.0337	magic.100.337	185	na	no	2017.04.21	2017.04.16	1000	1	regular	na	na	soft	orange	25				seq_1
+magic.0338	magic.100.338	122	na	no	2017.04.21	2017.04.14	900	12	regular	na	na	soft	yellow	50				
+magic.0339	magic.100.339	109	na	no	2017.04.21	2017.04.14	1330	na	Abx	during	5	soft	green	10			Timeline in weeks not stated	seq_1
+magic.0340	magic.100.340	187	na	yes	2017.04.21	2017.04.15	1400	na	na	na	na	na	na	na	Transitional		Birth sample	
+magic.0341	magic.100.341	173	na	no	2017.04.21	2017.04.18	552	3	regular	na	na	soft	orange	75				
+magic.0342	magic.100.342	187	na	yes	2017.04.21	2017.04.16	400	na	na	na	na	na	na	na	Transitional			
+magic.0343	magic.100.343	183	na	no	2017.04.24	2017.04.13	1849	1	na	na	na	soft	orange	50			Half sheet	
+magic.0344	magic.100.344	175	na	no	2017.04.24	2017.04.13	1430	2	regular	na	na	watery	orange	75				
+magic.0345	magic.100.345	117	na	no	2017.04.24	2017.04.07	800	12	regular	na	na	soft	yellow	75				
+magic.0346	magic.100.346	177	na	no	2017.04.24	na	na	na	na	na	na	na	na	na			No metadata provided	
+magic.0347	magic.100.347	176	8	yes	2017.04.24	2017.04.04	1330	na	na	na	na	na	na	na	Transitional			
+magic.0348	magic.100.348	177	8	yes	2017.04.24	2017.04.04	1500	na	na	na	na	na	na	na	Meconium			
+magic.0349	magic.100.349	181	7	yes	2017.04.24	2017.04.08	1345	na	na	na	na	na	na	na	Transitional			
+magic.0350	magic.100.350	183	4	yes	2017.04.24	2017.04.07	1615	na	na	na	na	na	na	na	Meconium			
+magic.0351	magic.100.351	181	6	yes	2017.04.24	2017.04.07	2139	na	na	na	na	na	na	na	Meconium			
+magic.0352	magic.100.352	179	7	yes	2017.04.24	2017.04.06	538	na	na	na	na	na	na	na	Transitional			
+magic.0353	magic.100.353	184	3	yes	2017.04.24	2017.04.10	1200	na	na	na	na	na	na	na	Transitional			
+magic.0354	magic.100.354	178	10	yes	2017.04.24	2017.04.04	2115	na	na	na	na	na	na	na	Transitional			
+magic.0355	magic.100.355	178	15	yes	2017.04.24	2017.04.05	1430	na	na	na	na	na	na	na	Transitional			
+magic.0356	magic.100.356	182	12	yes	2017.04.24	2017.04.08	1205	na	na	na	na	na	na	na	Transitional			
+magic.0357	magic.100.357	182	9	yes	2017.04.24	2017.04.07	1530	na	na	na	na	na	na	na	Meconium			
+magic.0358	magic.100.358	187	na	no	2017.04.24	2017.04.20	1715	1	regular	na	na	watery	orange	25				
+magic.0359	magic.100.359	183	na	no	2017.04.24	2017.04.20	2305	2	regular	na	na	soft	orange	10				
+magic.0360	magic.100.360	161	na	no	2017.04.24	2017.04.07	1509	4	regular	na	na	soft	orange	50				
+magic.0361	magic.100.361	180	na	no	2017.04.24	na	na	na	na	na	na	na	na	na			No metadata provided	
+magic.0362	magic.100.362	132	na	no	2017.04.24	na	na	na	na	na	na	na	na	na			No metadata provided	
+magic.0363	magic.100.363	126	na	no	2017.05.05	2017.04.18	2030	12	regular	na	na	watery	yellow	50				
+magic.0364	magic.100.364	124	na	no	2017.05.05	2017.04.18	na	12	Abx	prior	0	soft	yellow	75			"No time provided, both antibiotics and regular checked"	
+magic.0365	magic.100.365	184	na	no	2017.05.05	2017.04.21	1700	2	regular	na	na	watery	yellow	50				
+magic.0366	magic.100.366	125	na	no	2017.05.05	na	na	na	na	na	na	na	na	na			"No metadata provided, patients name was on bag"	
+magic.0367	magic.100.367	185	na	no	2017.05.05	2017.04.23	1200	2	regular	na	na	soft	orange	50				seq_1
+magic.0368	magic.100.368	181	na	no	2017.05.05	2017.04.20	1245	2	regular	na	na	soft	orange	50				
+magic.0369	magic.100.369	175	na	no	2017.05.05	2017.04.20	1631	3	regular	na	na	watery	brown	75				
+magic.0370	magic.100.370	170	na	no	2017.05.05	2017.04.18	900	4	regular	na	na	watery	orange	75				
+magic.0371	magic.100.371	191	na	no	2017.05.05	2017.04.23	330	0	regular	na	na	watery	meconium	75	Meconium		FIrst poop since meconium birth (delivery)	
+magic.0372	magic.100.372	186	na	no	2017.05.05	2017.04.21	1600	1	regular	na	na	soft	orange	75				
+magic.0373	magic.100.373	190	na	no	2017.05.05	na	na	na	na	na	na	na	na	na			"OMNIGENE * GUT package, no metadata"	
+magic.0374	magic.100.374	109	na	no	2017.05.05	2017.04.23	900	na	Abx	after	2	soft	brown	25				seq_1
+magic.0375	magic.100.375	127	na	no	2017.05.05	2017.04.22	730	12	regular	na	na	soft	orange	50				
+magic.0376	magic.100.376	188	7	yes	2017.05.05	2017.04.17	1947	na	na	na	na	na	na	na	Meconium			
+magic.0377	magic.100.377	188	5	yes	2017.05.05	2017.04.17	720	na	na	na	na	na	na	na	Meconium			
+magic.0378	magic.100.378	186	7	yes	2017.05.05	2017.04.16	1700	na	na	na	na	na	na	na	Meconium			
+magic.0379	magic.100.379	186	4	yes	2017.05.05	2017.04.15	1820	na	na	na	na	na	na	na	Transitional			
+magic.0380	magic.100.380	189	12	yes	2017.05.05	2017.04.18	1230	na	na	na	na	na	na	na	Transitional			
+magic.0381	magic.100.381	190	14	yes	2017.05.05	2017.04.20	1200	na	na	na	na	na	na	na	Transional			
+magic.0382	magic.100.382	MAGIC_000_1	na	na	2017.05.05	2017.04.19	2115	na	na	na	na	watery	yellow	25			"1 DOL, Nephew sample: Erica"	
+magic.0383	magic.100.383	MAGIC_000_2	na	na	2017.05.05	2017.04.21	2300	na	na	na	na	watery	orange	25			"13 DOL, Nephew sample: Erica"	
+magic.0384	magic.100.384	188	na	na	2017.05.12	2017.05.07	945	3	regular	na	na	formed	green	75				
+magic.0385	magic.100.385	193	na	no	2017.05.12	2017.05.05	1400	1	regular	na	na	soft	brown	25				
+magic.0386	magic.100.386	184	na	no	2017.05.12	2017.05.04	1507	4	regular	na	na	soft	yellow	50				
+magic.0387	magic.100.387	198	na	no	2017.05.12	2017.05.06	220	0	regular	na	na	soft	green	75				
+magic.0388	magic.100.388	140	na	no	2017.05.12	2017.05.05	300	12	regular	na	na	watery	orange	50				
+magic.0389	magic.100.389	195	na	no	2017.05.12	na	na	1	regular	na	na	formed	orange	10				
+magic.0390	magic.100.390	180	na	no	2017.05.12	na	na	na	na	na	na	na	na	na			Omnigene	
+magic.0391	magic.100.391	135	na	no	2017.05.12	2017.05.02	900	12	regular	na	na	watery	green	75				
+magic.0392	magic.100.392	189	na	no	2017.05.12	2017.05.06	2300	3	regular	na	na	soft	orange	25				
+magic.0393	magic.100.393	131	na	no	2017.05.12	2017.05.01	731	12	regular	na	na	soft	yellow	25				
+magic.0394	magic.100.394	186	na	no	2017.05.12	2017.05.04	1630	3	regular	na	na	soft	green	25				
+magic.0395	magic.100.395	143	na	no	2017.05.12	2017.05.08	1845	12	regular	na	na	watery	orange	50				
+magic.0396	magic.100.396	109	na	no	2017.05.12	2017.05.08	425	na	Abx	prior	0	watery	brown	50				seq_1
+magic.0397	magic.100.397	132	na	no	2017.05.12	2017.05.08	2015	na	Abx	after	10	soft	yellow	75				
+magic.0398	magic.100.398	181	na	no	2017.05.12	2017.05.03	1050	4	regular	na	na	soft	yellow	75				
+magic.0399	magic.100.399	192	na	no	2017.05.12	na	na	1	regular	na	na	soft	yellow	50			Color: Yellow/orange  Consistency: Soft/formed	
+magic.0400	magic.100.400	181	na	no	2017.05.17	2017.04.27	1700	3	na	na	na	soft	orange	25				
+magic.0401	magic.100.401	187	na	no	2017.05.17	2017.04.30	420	2	na	na	na	soft	yellow	10				
+magic.0402	magic.100.402	123	na	no	2017.05.17	2017.04.17	630	12	regular	prior	0	watery	yellow	75				seq_1
+magic.0403	magic.100.403	175	na	no	2017.05.17	2017.04.27	2130	4	na	na	na	soft	green	75				
+magic.0404	magic.100.404	190	na	no	2017.05.17	na	na	na	na	na	na	na	na	na			No metadata provided (omnigene)	
+magic.0405	magic.100.405	183	na	no	2017.05.17	2017.04.27	1925	3	na	na	na	soft	yellow	10				
+magic.0406	magic.100.406	137	na	no	2017.05.17	2017.04.25	1730	12	na	na	na	watery	yellow	75				
+magic.0407	magic.100.407	191	na	no	2017.05.17	2017.04.27	1645	1	na	na	na	watery	orange	50				
+magic.0408	magic.100.408	172	na	no	2017.05.17	2017.04.23	2300	4	na	na	na	watery	yellow	75				
+magic.0409	magic.100.409	195	na	no	2017.05.17	2017.05.08	905	2	na	na	na	soft	brown	50				
+magic.0410	magic.100.410	173	na	no	2017.05.17	2017.04.25	1800	4	na	na	na	soft	orange	75				
+magic.0411	magic.100.411	184	na	no	2017.05.17	2017.04.27	1415	3	na	na	na	soft	yellow	25				
+magic.0412	magic.100.412	191	na	no	2017.05.17	2017.05.04	1720	2	na	na	na	watery	orange	50				
+magic.0413	magic.100.413	187	na	no	2017.05.17	2017.05.06	1400	3	na	na	na	soft	orange	75				
+magic.0414	magic.100.414	192	na	no	2017.05.17	2017.05.05	2305	2	na	na	na	watery	yellow	50				
+magic.0415	magic.100.415	190	na	no	2017.05.17	2017.05.07	1320	3	na	na	na	soft	orange	75				
+magic.0416	magic.100.416	198	na	no	2017.05.30	2017.05.18	900	2	na	na	na	soft	orange	75				
+magic.0417	magic.100.417	148	na	no	2017.05.30	2017.05.16	1955	12	regular	na	na	formed	yellow	10				seq_1
+magic.0418	magic.100.418	190	na	no	2017.05.30	2017.05.15	200	4	na	na	na	watery	clay	75				
+magic.0419	magic.100.419	188	na	no	2017.05.30	na	na	4	na	na	na	soft	clay	75			some metadata not provided	
+magic.0420	magic.100.420	198	na	no	2017.05.30	2017.05.12	1936	1	na	na	na	soft	yellow	75				
+magic.0421	magic.100.421	193	na	no	2017.05.30	2017.05.19	2100	3	na	na	na	soft	clay	75				
+magic.0422	magic.100.422	186	na	no	2017.05.30	2017.04.27	1742	2	na	na	na	soft	orange	75				
+magic.0423	magic.100.423	109	na	no	2017.05.30	2017.05.29	840	na	Abx	prior	0	soft	brown	75				
+magic.0424	magic.100.424	147	na	no	2017.05.30	2017.05.14	1100	12	na	na	na	watery	green	10				
+magic.0425	magic.100.425	201	na	no	2017.05.30	2017.05.18	1900	1	na	na	na	soft	yellow	25				
+magic.0426	magic.100.426	186	na	no	2017.05.30	2017.05.14	1130	4	na	na	na	watery	green	75				
+magic.0427	magic.100.427	191	na	no	2017.05.30	2017.05.19	630	4	na	na	na	watery	orange	10				
+magic.0428	magic.100.428	132	na	no	2017.05.30	2017.04.29	2300	12	Abx	after	2	soft	yellow	75				seq_1
+magic.0429	magic.100.429	141	na	no	2017.05.30	2017.05.09	na	12	regular	na	na	watery	yellow	50			Time not provided	seq_1
+magic.0430	magic.100.430	185	na	no	2017.05.30	2017.05.09	1100	4	na	na	na	watery	yellow	75				
+magic.0431	magic.100.431	183	na	no	2017.05.30	2017.04.05	252		na	na	na	soft	green	50				
+magic.0432	magic.100.432	187	na	no	2017.05.30	2017.05.15	800	4	na	na	na	watery	orange	75				
+magic.0433	magic.100.433	196	na	no	2017.05.30	2017.05.09	1615	1	na	na	na	soft	yellow	25				seq_1
+magic.0434	magic.100.434	197	na	no	2017.05.30	2017.05.10	1140	1	na	na	na	soft	yellow	50				
+magic.0435	magic.100.435	144	na	no	2017.05.30	2017.05.12	2326	12	regular	na	na	watery	orange	75				seq_1
+magic.0436	magic.100.436	192	na	no	2017.05.30	2017.05.12	1700	3	na	na	na	soft	yellow	25				
+magic.0437	magic.100.437	149	na	no	2017.05.30	2017.05.16	1900	12	regular	na	na	watery	orange	50				
+magic.0438	magic.100.438	195	na	no	2017.05.30	2017.05.16	1040	3	na	na	na	watery	brown	50				
+magic.0439	magic.100.439	109	na	no	2017.05.30	2017.05.13	1855	na	Abx	during	5	hard	brown	na				
+magic.0440	magic.100.440	136	na	no	2017.05.30	2017.05.18	na	12	regular	na	na	watery	yellow	25				seq_1
+magic.0441	magic.100.441	192	na	no	2017.05.30	2017.05.19	2300	4	na	na	na	hard	orange	50				
+magic.0442	magic.100.442	197	na	no	2017.05.30	2017.05.17	1800	2	na	na	na	soft	orange	50				
+magic.0443	magic.100.443	na	na	no	2017.05.30	na	na	na	na	na	na	na	na	na			"No metadata provided, no patient number in or around the box"	
+magic.0444	magic.100.444	189	na	no	2017.05.30	2017.05.13	1000	4	na	na	na	soft	orange	25				
+magic.0445	magic.100.445	109	na	no	2017.05.30	2017.05.21	840	na	Abx	during	5	formed	brown	25				
+magic.0446	magic.100.446	191	na	no	2017.05.30	2017.05.11	1715	3	na	na	na	watery	orange	50				
+magic.0447	magic.100.447	147	na	no	2017.05.30	2017.05.13	1330	12	na	na	na	soft	brown	75				
+magic.0448	magic.100.448	199	na	no	2017.05.30	2017.05.13	2132	1	na	na	na	watery	yellow	50				
+magic.0449	magic.100.449	138	na	no	2017.05.30	2017.05.21	1830	12	regular	na	na	soft	orange	50				
+magic.0450	magic.100.450	199	na	no	2017.05.30	2017.05.07	2302	0	na	na	na	soft	brown	50			week 0 indicates birth	
+magic.0451	magic.100.451	193	na	no	2017.05.30	2017.05.11	700	2	na	na	na	watery	clay	75				
+magic.0452	magic.100.452	142	na	no	2017.06.02	2017.05.22	922	12	Abx	prior	0	formed	yellow	50				
+magic.0453	magic.100.453	202	na	no	2017.06.02	2017.05.22	1800	1	regular	na	na	soft	yellow 	50				
+magic.0454	magic.100.454	206	na	yes	2017.06.02	2017.05.22	1500	na	na	na	na	na	na	na				
+magic.0455	magic.100.455	204	na	no	2017.06.02	2017.05.24	2300	1	regular	na	na	watery	orange	25				
+magic.0456	magic.100.456	197	na	no	2017.06.02	2017.05.24	1350	3	regular	na	na	soft	orange	50				seq_1
+magic.0457	magic.100.457	195	na	no	2017.06.02	2017.04.25	2015	4	regular	na	na	watery	green	75				
+magic.0458	magic.100.458	153	na	no	2017.06.02	2017.05.26	920	12	regular	na	na	soft	yellow	25				
+magic.0459	magic.100.459	193	na	no	2017.06.02	2017.05.26	1300	4	regular	na	na	soft	yellow	10				
+magic.0460	magic.100.460	203	na	no	2017.06.02	2017.05.23	1015	1	regular	na	na	watery	orange	25			also marked soft	
+magic.0461	magic.100.461	109	na	no	2017.06.09	2017.05.30	1845	na	Abx	after	2	soft	brown	75			2 and 10 days after both checked	
+magic.0462	magic.100.462	199	na	no	2017.06.09	2017.05.12	902	2	regular	na	na	watery	yellow	25				
+magic.0463	magic.100.463	201	na	no	2017.06.09	2017.05.24	1920	2	regular	na	na	soft	green	50				
+magic.0464	magic.100.464	199	na	no	2017.06.09	2017.05.19	1241	3	regular	na	na	soft	yellow	50				
+magic.0465	magic.100.465	151	na	no	2017.06.09	2017.05.19	1800	12	regular	na	na	watery	green	50				seq_1
+magic.0466	magic.100.466	207	na	no	2017.06.09	2017.06.03	1241	2	regular	na	na	soft	yellow	25				
+magic.0467	magic.100.467	196	na	no	2017.06.09	2017.05.23	1600	3	regular	na	na	soft	yellow	75				
+magic.0468	magic.100.468	206	na	yes	2017.06.09	2017.06.01	1335	na	na	na	na	na	na	na	na			
+magic.0469	magic.100.469	182	na	no	2017.06.09	2017.04.19	1537	2	regular	na	na	soft	yellow	50				
+magic.0470	magic.100.470	199	na	no	2017.06.09	2017.04.26	1455	3	regular	na	na	soft	yellow	25				
+magic.0471	magic.100.471	155	na	no	2017.06.09	2017.06.01	1815	12	regular	na	na	watery	brown	25				seq_1
+magic.0472	magic.100.472	197	na	no	2017.06.09	2017.05.31	1145	4	regular	na	na	watery	orange	75				
+magic.0473	magic.100.473	198	na	no	2017.06.09	2017.05.31	1300	4	regular	na	na	soft	orange	75				seq_1
+magic.0474	magic.100.474	132	na	na	2017.06.12	na	na	na	na	na	na	na	na	na				
+magic.0475	magic.100.475	196	na	no	2017.06.12	2017.05.30	1800	4	regular	na	na	soft	orange	50				
+magic.0476	magic.100.476	205	na	no	2017.06.12	2017.05.23	2355	1	na	na	na	soft	yellow	10				
+magic.0477	magic.100.477	203	na	no	2017.06.12	2017.05.30	1500	2	regular	na	na	soft	yellow	25				
+magic.0478	magic.100.478	202	na	no	2017.06.12	2017.05.30	2000	2	regular	na	na	watery	yellow	25				
+magic.0479	magic.100.479	205	na	no	2017.06.12	2017.05.30	1940	2	regular	na	na	watery	yellow	10				
+magic.0480	magic.100.480	208	na	no	2017.06.12	2017.05.29	1345	1	regular	na	na	soft	yellow	50				
+magic.0481	magic.100.481	201	7	yes	2017.06.12	2017.05.11	1415	na	na	na	na	na	na	na	Meconium			
+magic.0482	magic.100.482	202	17	yes	2017.06.12	2017.05.19	855	na	na	na	na	na	na	na	Transitional			
+magic.0483	magic.100.483	202	14	yes	2017.06.12	2017.05.18	1505	na	na	na	na	na	na	na	Transitional			
+magic.0484	magic.100.484	205	10	yes	2017.06.12	2017.05.19	1535	na	na	na	na	na	na	na	Meconium			seq_1
+magic.0485	magic.100.485	203	6	yes	2017.06.12	2017.05.19	830	na	na	na	na	na	na	na	Meconium			
+magic.0486	magic.100.486	207	5	yes	2017.06.12	2017.05.17	1055	na	na	na	na	na	na	na	Transitional			
+magic.0487	magic.100.487	204	6	yes	2017.06.12	2017.05.20	10	na	na	na	na	na	na	na	Meconium			
+magic.0488	magic.100.488	205	11	yes	2017.06.12	2017.05.17	2210	na	na	na	na	na	na	na	Transitional			
+magic.0489	magic.100.489	196	3	yes	2017.06.12	2017.05.03	2045	na	na	na	na	na	na	na	Meconium			
+magic.0490	magic.100.490	197	6	yes	2017.06.12	2017.05.04	1520	na	na	na	na	na	na	na	Meconium			
+magic.0491	magic.100.491	197	8	yes	2017.06.12	2017.05.05	715	na	na	na	na	na	na	na	Meconium			
+magic.0492	magic.100.492	200	7	yes	2017.06.12	2017.07.17	1500	na	na	na	na	na	na	na	Meconium			
+magic.0493	magic.100.493	193	3	yes	2017.06.12	2017.04.26	2115	na	na	na	na	na	na	na	Meconium			
+magic.0494	magic.100.494	194	5	yes	2017.06.12	2017.05.17	2247	na	na	na	na	na	na	na	Meconium			
+magic.0495	magic.100.495	192	20	yes	2017.06.12	2017.04.25	1125	na	na	na	na	na	na	na	Transitional			
+magic.0496	magic.100.496	193	6	yes	2017.06.12	2017.04.28	130	na	na	na	na	na	na	na	Transitional			
+magic.0497	magic.100.497	204	na	no	2017.06.12	2017.05.31	1800	2	regular	na	na	watery	orange	50				
+magic.0498	magic.100.498	198	na	no	2017.06.12	2017.05.24	430	3	regular	na	na	soft	yellow	50				
+magic.0499	magic.100.499	189	na	no	2017.06.12	2017.04.25	1200	1	regular	na	na	soft	orange	50				
+magic.0500	magic.100.500	189	na	no	2017.06.12	2017.04.28	1000	2	regular	na	na	soft	yellow	25				
+magic.0501	magic.100.501	3	na	no	2017.06.12	2017.04.25	2045	na	regular	na	na	watery	yellow	10			10% top full	
+magic.0502	magic.100.502	202	na	no	2017.06.12	2017.06.06	930	3	regular	na	na	soft	yellow	75				
+magic.0503	magic.100.503	209	na	no	2017.06.12	2017.06.04	2145	1	regular	na	na	formed	yellow	25				
+magic.0504	magic.100.504	215	na	no	2017.06.12	2017.06.05	1445	0	regular	na	na	soft	orange	50				
+magic.0505	magic.100.505	214	3	yes	2017.06.12	2017.06.03	1250	na	na	na	na	na	na	na	Meconium			
+magic.0506	magic.100.506	209	6	yes	2017.06.12	2017.05.30	1505	na	na	na	na	na	na	na	Transitional			
+magic.0507	magic.100.507	208	8	yes	2017.06.12	2017.05.24	1115	na	na	na	na	na	na	na	Meconium			
+magic.0508	magic.100.508	214	4	yes	2017.06.12	2017.06.04	915	na	na	na	na	na	na	na	Transitional			
+magic.0509	magic.100.509	212	14	yes	2017.06.12	2017.06.02	1115	na	na	na	na	na	na	na	Transitional			
+magic.0510	magic.100.510	213	4	yes	2017.06.12	2017.06.03	1415	na	na	na	na	na	na	na	Transitional			
+magic.0511	magic.100.511	210	10	yes	2017.06.12	2017.05.31	1715	na	na	na	na	na	na	na	Transitional			
+magic.0512	magic.100.512	211	na	no	2017.06.16	2017.06.07	1100	1	regular	na	na	soft	yellow	25				
+magic.0513	magic.100.513	203	na	no	2017.06.16	2017.06.06	1530	3	regular	na	na	soft	yellow	25				
+magic.0514	magic.100.514	210	na	no	2017.06.16	2017.06.06	1600	1	regular	na	na	soft	yellow	75				seq_1
+magic.0515	magic.100.515	208	na	no	2017.06.16	2017.06.05	700	2	regular	na	na	soft	yellow	75				
+magic.0516	magic.100.516	196	na	no	2017.06.16	2017.05.16	2000	2	regular	na	na	soft	yellow	50				
+magic.0517	magic.100.517	202	na	no	2017.06.16	2017.06.12	1345	4	regular	na	na	watery	orange	75				
+magic.0518	magic.100.518	203	na	no	2017.06.16	2017.06.13	930	4	regular	na	na	soft	orange	25				
+magic.0519	magic.100.519	101	na	no	2017.06.16	2017.06.11	na	na	na	na	na	na	na	na			"No metadata sheet, all data pulled from the sample tube."	
+magic.0520	magic.100.520	158	na	no	2017.06.16	2017.06.06	730	12	regular	na	na	soft	orange	50				
+magic.0521	magic.100.521	205	na	no	2017.06.16	2017.05.07	1030	3	regular	na	na	soft	orange	25				
+magic.0522	magic.100.522	164	na	no	2017.06.19	2017.06.11	1000	12	regular	na	na	soft	green	10				
+magic.0523	magic.100.523	206	na	no	2017.06.19	2017.06.08	1618	3	regular	na	na	soft	orange	25				
+magic.0524	magic.100.524	217	Had no number	yes	2017.06.19	2017.06.10	930	na	na	na	na	na	na	na	Transitional			
+magic.0525	magic.100.525	204	na	na	2017.06.19	2017.06.08	900	3	regular	na	na	watery	yellow	50				
+magic.0526	magic.100.526	102	na	no	2017.06.19	2017.06.08	1200	na	Abx	after	2	soft	brown	50			Maternal abx	seq_1
+magic.0527	magic.100.527	104	na	no	2017.06.23	2017.06.14	1516	24	regular	na	na	watery	orange	75				seq_1
+magic.0528	magic.100.528	211	na	no	2017.06.23	2017.06.15	1508	2	regular	na	na	na	na	na			Last three data points not given	
+magic.0529	magic.100.529	209	na	no	2017.06.23	2017.05.11	2125	2	regular	na	na	soft	yellow	25				
+magic.0530	magic.100.530	219	na	no	2017.06.23	2017.06.18	1705	1	regular	na	na	watery	yellow	25				
+magic.0531	magic.100.531	109	na	no	2017.06.23	2017.06.17	1310	24	Abx	after	30	formed	brown	50				seq_1
+magic.0532	magic.100.532	102	na	no	2017.06.23	2017.06.16	732	24	Abx	after	10	soft	brown	50			Maternal abx	seq_1
+magic.0533	magic.100.533	204	na	no	2017.06.23	2017.06.14	900	4	regular	na	na	watery	orange	75				
+magic.0534	magic.100.534	219	na	no	2017.06.23	2017.06.13	1612	0	regular	na	na	soft	brown	75				
+magic.0535	magic.100.535	208	na	no	2017.06.26	2017.06.19	630	4	regular	na	na	watery and soft	yellow	75				
+magic.0536	magic.100.536	218	na	no	2017.06.26	2017.06.19	1550	1	regular	na	na	watery	yellow	50				
+magic.0537	magic.100.537	167	na	no	2017.06.26	2017.06.17	705	12	regular	na	na	formed	brown	50				seq_1
+magic.0538	magic.100.538	107	na	no	2017.06.26	2017.06.17	1600	24	regular	na	na	soft	green	50				seq_1
+magic.0539	magic.100.539	162	na	no	2017.06.26	2017.03.12	1700	12	regular	na	na	watery	orange	25				seq_1
+magic.0540	magic.100.540	215	na	no	2017.06.26	2017.06.03	1300	1	regular	na	na	watery	orange	50				
+magic.0541	magic.100.541	105	na	no	2017.06.26	2017.06.14	1330	24	regular	na	na	formed	brown	50				seq_1
+magic.0542	magic.100.542	217	na	no	2017.06.26	2017.06.15	2300	1	regular	na	na	soft	yellow	25				seq_1
+magic.0543	magic.100.543	106	na	no	2017.06.26	2017.06.15	1440	24	regular	na	na	soft	yellow	50				seq_1
+magic.0544	magic.100.544	218	Had no number	yes	2017.06.26	2017.06.13	1700	na	na	na	na	watery	yellow	10	Transitional			
+magic.0545	magic.100.545	205	na	no	2017.06.26	2017.06.14	1530	4	regular	na	na	soft	orange	25				
+magic.0546	magic.100.546	166-05	na	no	2017.06.26	2017.06.17	1200	12	regular	na	na	soft	brown	25				
+magic.0547	magic.100.547	210	na	no	2017.06.26	2017.06.13	2130	2	regular	na	na	watery	yellow	25				seq_1
+magic.0548	magic.100.548	208	na	no	2017.06.26	2017.06.12	830	3	regular	na	na	watery	yellow	50				
+magic.0549	magic.100.549	160	na	no	2017.06.26	2017.06.08	755	12	regular	na	na	watery	green	75				seq_1
+magic.0550	magic.100.550	211	Had no number	yes	2017.06.26	2017.06.16	1110	na	na	na	na	na	na	na	Transitional			
+magic.0551	magic.100.551	165	na	no	2017.06.26	2017.06.16	1600	12	regular	na	na	watery	yellow	75				seq_1
+magic.0552	magic.100.552	169	na	no	2017.06.26	2017.06.17	1800	12	regular	na	na	formed	brown	50				seq_1
+magic.0553	magic.100.553	222	8	yes	2017.06.26	2017.06.16	1000	na	na	na	na	na	na	na	Meconium			
+magic.0554	magic.100.554	224	15	yes	2017.06.26	2017.06.14	640	na	na	na	na	na	na	na	Transitional			
+magic.0555	magic.100.555	220	21	yes	2017.06.26	2017.06.15	1000	na	na	na	na	na	na	na	Transitional			
+magic.0556	magic.100.556	222	4	yes	2017.06.26	2017.06.15	1815	na	na	na	na	na	na	na	Meconium			
+magic.0557	magic.100.557	224	6	yes	2017.06.26	2017.06.17	1130	na	na	na	na	na	na	na	Transitional			
+magic.0558	magic.100.558	224	na	no	2017.06.30	2017.06.21	2102	1	regular	na	na	soft	yellow	25				
+magic.0559	magic.100.559	221	na	no	2017.06.30	2017.06.21	2220	1	regular	na	na	soft	green	50				
+magic.0560	magic.100.560	223	na	no	2017.06.30	2017.06.22	na	1	regular	na	na	soft	clay	25				
+magic.0561	magic.100.561	222	na	no	2017.06.30	2017.06.21	2150	1	regular	na	na	formed	brown	50				
+magic.0562	magic.100.562	170	na	no	2017.06.30	2017.06.22	1600	12	regular	na	na	watery	brown	50				
+magic.0563	magic.100.563	210	na	no	2017.06.30	2017.06.20	2230	3	regular	na	na	soft	yellow	50				
+magic.0564	magic.100.564	161	na	no	2017.06.30	2017.06.09	1208	12	regular	na	na	soft	green	75				
+magic.0565	magic.100.565	215	na	no	2017.06.30	2017.06.20	2100	2	regular	na	na	watery	green	25				
+magic.0566	magic.100.566	211	na	no	2017.06.30	2017.06.21	1000	3	regular	na	na	watery	green	10		Watery and soft were both checked. AM/PM not written.		
+magic.0567	magic.100.567	109	na	no	2017.06.30	2017.06.21	430	na	Abx	prior	0	watery	brown	75		AM/PM not written.		
+magic.0568	magic.100.568	229	na	no	2017.07.07	na	na	na	na	na	na	na	na	na				
+magic.0569	magic.100.569	168	na	no	2017.07.07	2017.06.24	700	12	regular	na	na	soft	yellow	75				
+magic.0570	magic.100.570	217	na	no	2017.07.07	2017.06.24	900	12	regular	na	na	watery	yellow	25				
+magic.0571	magic.100.571	220	na	no	2017.07.07	2017.06.25	743	2	regular	na	na	soft	yellow	25				
+magic.0572	magic.100.572	218	na	no	2017.07.07	2017.06.25	920	2	regular	na	na	watery	yellow	25				
+magic.0573	magic.100.573	225	na	no	2017.07.07	2017.06.21	309	0	regular	na	na	soft	brown	10		Brown and clay colored		
+magic.0574	magic.100.574	213	na	no	2017.07.07	2017.06.29	1526	4	regular	na	na	soft	orange	50				
+magic.0575	magic.100.575	228	na	no	2017.07.07	2017.06.28	1837	1	regular	na	na	watery	yellow	10		Watery and soft		
+magic.0576	magic.100.576	210	na	no	2017.07.07	2017.06.27	900	4	regular	na	na	soft	yellow	50				
+magic.0577	magic.100.577	111	na	no	2017.07.07	2017.06.26	1430	24	regular	na	na	soft	orange	75				
+magic.0578	magic.100.578	215	na	no	2017.07.07	2017.06.26	1700	3	regular	na	na	watery	orange	25				
+magic.0579	magic.100.579	224	na	no	2017.07.12	2017.07.05	2312	3	regular	na	na	watery	green	25				
+magic.0580	magic.100.580	116	na	no	2017.07.12	2017.07.05	1915	24	regular	na	na	watery	clay	75				
+magic.0581	magic.100.581	234	na	no	2017.07.12	2017.07.06	1840	1	regular	na	na	watery	orange	75				
+magic.0582	magic.100.582	230	na	no	2017.07.12	2017.07.03	1000	1	regular	na	na	watery	yellow	50				
+magic.0583	magic.100.583	220	na	no	2017.07.12	2017.07.02	345	3	regular	na	na	soft	yellow	50			Also orange?	
+magic.0584	magic.100.584	222	na	no	2017.07.12	2017.06.28	2130	2	regular	na	na	soft	yellow	25				
+magic.0585	magic.100.585	175	na	no	2017.07.12	2017.06.28	1530	12	regular	na	na	watery	brown/orange	50				
+magic.0586	magic.100.586	109	na	no	2017.07.12	2017.07.04	920	na	Abx	after	2	formed	brown	50				
+magic.0587	magic.100.587	209	na	no	2017.07.12	2017.07.25	2200	4	regular	na	na	formed/hard	green/yellow	25				
+magic.0588	magic.100.588	1230	na	no	2017.07.12	2017.07.05	1230	2	regular	na	na	soft	yellow	75				
+magic.0589	magic.100.589	219	na	no	2017.07.12	2017.06.25	702	2	regular	na	na	watery	yellow	50				
+magic.0590	magic.100.590	185	na	no	2017.07.12	2017.07.05	1700	12	regular	na	na	soft	yellow	50				
+magic.0591	magic.100.591	180	na	no	2017.07.12	2017.07.05	1100	12	regular	na	na	watery	green	50				
+magic.0592	magic.100.592	233	na	no	2017.07.12	2017.07.03	400	1	regular	na	na	soft	orange	50				
+magic.0593	magic.100.593	222	na	no	2017.07.12	2017.07.05	1100	12	regular	na	na	soft	yellow	75				
+magic.0594	magic.100.594	229	na	no	2017.07.12	2017.07.05	1800	2	regular	na	na	soft	yellow	50				
+magic.0595	magic.100.595	217	na	no	2017.07.12	2017.07.06	1500	3	regular	na	na	soft	yellow	50				
+magic.0596	magic.100.596	234	na	no	2017.07.14	2017.07.01	1725	0	regular	na	na	watery	meconium	75				
+magic.0597	magic.100.597	231	na	no	2017.07.14	2017.07.04	600	1	regular	na	na	soft	orange	25				
+magic.0598	magic.100.598	217	na	no	2017.07.14	na	na	na	na	na	na	na	na	na			No sample in the box	
+magic.0599	magic.100.599	109	na	no	2017.07.14	2017.06.28	725	na	Abx	during	5	formed	brown	50				
+magic.0600	magic.100.600	227	na	no	2017.07.14	2017.06.28	1400	1	regular	na	na	soft	yellow	75				
+magic.0601	magic.100.601	224	na	no	2017.07.14	2017.06.28	2313	2	regular	na	na	soft	yellow	50				
+magic.0602	magic.100.602	172	na	no	2017.07.14	2017.06.27	1845	12	regular	na	na	watery	yellow	75				
+magic.0603	magic.100.603	229	na	no	2017.07.14	na	na	na	na	na	na	na	na	na			No metadata	
+magic.0604	magic.100.604	233	na	no	2017.07.14	2017.06.29	430	0	regular	na	na	soft	meconium	75	Meconium			
+magic.0605	magic.100.605	221	na	no	2017.07.14	2017.07.04	930	3	regular	na	na	soft	yellow	50				
+magic.0606	magic.100.606	226	na	no	2017.07.14	2017.07.02	1700	2	regular	na	na	soft	orange	25				
+magic.0607	magic.100.607	219	na	no	2017.07.14	2017.07.03	930	3	regular	na	na	watery	yellow	75				
+magic.0608	magic.100.608	211	na	no	2017.07.14	2017.07.05	1130	4	regular	na	na	soft	yellow	10			"AM/PM not marked, both yellow and green marked"	
+magic.0609	magic.100.609	218	na	no	2017.07.14	2017.07.03	1030	3	regular	na	na	watery	yellow	25			Am/PM not marked	
+magic.0610	magic.100.610	115	na	no	2017.07.14	2017.07.04	1148	24	regular	na	na	soft	green	50				
+magic.0611	magic.100.611	215	na	no	2017.07.14	2017.06.03	810	4	regular	na	na	watery	orange	75				
+magic.0612	magic.100.612	221	na	no	2017.07.21	2017.06.27	1800	2	regular	na	na	soft	yellow	10			Smear and 25 both marked	
+magic.0613	magic.100.613	230	na	no	2017.07.21	2017.06.27	252	0	regular	na	na	soft	green	50			"Time not specific, both green and brown marked"	
+magic.0614	magic.100.614	226	na	no	2017.07.21	2017.06.27	810	1	regular	na	na	soft	orange	25				
+magic.0615	magic.100.615	173	na	no	2017.07.21	2017.06.28	800	12	regular	na	na	soft	orange	25				
+magic.0616	magic.100.616	223	na	no	2017.07.21	2017.06.29	1251	2	regular	na	na	soft	yellow	25				
+magic.0617	magic.100.617	232	13	yes	2017.07.21	2017.06.29	1230	na	na	na	na	na	na	na	Meconium			
+magic.0618	magic.100.618	231	6	yes	2017.07.21	2017.06.28	430	na	na	na	na	na	na	na	Transitional			
+magic.0619	magic.100.619	226	1	yes	2017.07.21	2017.06.21	320	na	na	na	na	na	na	na	Meconium			
+magic.0620	magic.100.620	226	na	no	2017.07.21	2017.07.10	na	3	regular	na	na	soft	orange	25				
+magic.0621	magic.100.621	218	na	no	2017.07.21	2017.07.09	605	4	regular	na	na	watery	yellow	50				
+magic.0622	magic.100.622	183	na	no	2017.07.21	2017.07.08	1009	12	regular	na	na	watery	brown	75			Time not specific	
+magic.0623	magic.100.623	230	na	no	2017.07.21	2017.07.09	1106	2	regular	na	na	soft	yellow	25				
+magic.0624	magic.100.624	181	na	no	2017.07.21	2017.07.06	1600	12	regular	na	na	soft	yellow	50			Both yellow and orange marked	
+magic.0625	magic.100.625	235	na	no	2017.07.21	2017.07.10	1745	1	regular	na	na	soft	yellow	50				
+magic.0626	magic.100.626	177	na	no	2017.07.21	2017.07.09	850	12	Abx	Prior	0	soft	yellow	25				
+magic.0627	magic.100.627	102	na	no	2017.07.21	2017.07.10	1925	na	Abx	after	30	hard	brown	10			Maternal abx	
+magic.0628	magic.100.628	227	na	no	2017.07.21	2017.07.12	1100	3	regular	na	na	soft	yellow	75				
+magic.0629	magic.100.629	236	na	no	2017.07.21	2017.07.12	1700	1	regular	na	na	watery	yellow	50				
+magic.0630	magic.100.630	233	na	no	2017.07.21	2017.07.10	2026	2	regular	na	na	soft	yellow	10				
+magic.0631	magic.100.631	231	na	no	2017.07.21	2017.07.10	2100	2	regular	na	na	watery	orange	50				
+magic.0632	magic.100.632	220	na	no	2017.07.21	2017.07.09	2130	4	regular	na	na	soft	yellow	75				
+magic.0633	magic.100.633	119	na	no	2017.07.21	2017.07.10	1310	24	regular	na	na	soft	yellow	25				
+magic.0634	magic.100.634	184	na	no	2017.07.21	2017.07.09	1520	12	regular	na	na	soft	yellow	75				
+magic.0635	magic.100.635	228	na	no	2017.07.21	2017.06.23	623	0	regular	na	na	watery	green	50			Ambiguous time	
+magic.0636	magic.100.636	227	na	no	2017.07.21	na	na	na	na	na	na	na	na	na			No metadata	
+magic.0637	magic.100.637	213	na	no	2017.07.21	2017.06.22	1003	3	regular	na	na	soft	orange	75				
+magic.0638	magic.100.638	117	na	no	2017.07.21	2017.07.05	1800	24	regular	na	na	soft	yellow	75				
+magic.0639	magic.100.639	228	na	no	2017.07.21	2017.07.07	na	2	regular	na	na	watery	brown	10			No time	
+magic.0640	magic.100.640	225	na	no	2017.07.21	2017.07.04	1530	2	regular	na	na	soft	yellow	25				
+magic.0641	magic.100.641	234	na	no	2017.07.28	2017.07.13	1400	2	regular	na	na	watery	orange	75				
+magic.0642	magic.100.642	237	na	no	2017.07.28	2017.07.11	1730	0	regular	na	na	watery	meconium	10	Meconium			
+magic.0643	magic.100.643	122	na	no	2017.07.28	2017.07.12	1246	24	regular	na	na	watery	orange	75				
+magic.0644	magic.100.644	231	na	no	2017.07.28	2017.07.17	2200	3	regular	na	na	soft	orange	25				
+magic.0645	magic.100.645	221	na	no	2017.07.28	2017.07.11	1400	4	regular	na	na	soft	yellow	50				
+magic.0646	magic.100.646	109	na	no	2017.07.28	2017.07.12	1900	na	Abx	after	10	soft	brown	50				
+magic.0647	magic.100.647	235	na	no	2017.07.28	2017.07.17	1115	2	regular	na	na	soft	yellow	50			Ambiguous time	
+magic.0648	magic.100.648	188	na	no	2017.07.28	2017.07.16	1023	12	regular	na	na	soft	yellow	75			Ambiguous time	
+magic.0649	magic.100.649	225	na	no	2017.07.28	2017.07.13	120	3	regular	na	na	soft	yellow	50				
+magic.0650	magic.100.650	236	na	no	2017.07.28	2017.07.07	1500	0	regular	na	na	hard	meconium	50	Meconium			
+magic.0651	magic.100.651	120	na	no	2017.07.28	2017.07.10	1725	na	Abx	prior	0	soft	green	50			6 months checked	
+magic.0652	magic.100.652	229	na	no	2017.07.28	2017.07.19	2200	4	regular	na	na	formed	yellow	10				
+magic.0653	magic.100.653	247	na	no	2017.07.28	2017.07.22	1700	0	regular	na	na	soft	brown	50				
+magic.0654	magic.100.654	237	na	no	2017.07.28	2017.07.16	1730	1	regular	na	na	watery	yellow	10				
+magic.0655	magic.100.655	226	na	no	2017.07.28	2017.07.17	930	4	regular	na	na	formed	orange	50				
+magic.0656	magic.100.656	225	na	no	2017.07.28	2017.07.16	1300	4	regular	na	na	soft	yellow	25				
+magic.0657	magic.100.657	238	7	yes	2017.07.28	2017.07.13	830	na	na	na	na	na	na	na	Transitional			
+magic.0658	magic.100.658	235	12	yes	2017.07.28	2017.07.06	400	na	na	na	na	na	na	na	Transitional			
+magic.0659	magic.100.659	239	8	yes	2017.07.28	2017.07.12	1850	na	na	na	na	na	na	na	Transitional			
+magic.0660	magic.100.660	239	11	yes	2017.07.28	2017.07.13	610	na	na	na	na	na	na	na	Transitional			
+magic.0661	magic.100.661	240	13	yes	2017.07.28	2017.07.13	1637	na	na	na	na	na	na	na	Transitional			
+magic.0662	magic.100.662	229	na	no	2017.07.28	2017.07.12	1930	3	regular	na	na	soft	yellow	10				
+magic.0663	magic.100.663	219	na	no	2017.08.11	2017.07.10	1945	4	regular	na	na	soft	clay	75				
+magic.0664	magic.100.664	245	na	no	2017.08.11	2017.07.26	1245	1	regular	na	na	soft	orange	50				
+magic.0665	magic.100.665	243	na	no	2017.08.11	2017.07.23	2100	1	regular	na	na	soft	yellow	75				
+magic.0666	magic.100.666	241	na	no	2017.08.11	2017.07.23	1445	1	regular	na	na	soft	yellow	50				
+magic.0667	magic.100.667	191	na	no	2017.08.11	2017.04.22	500	12	regular	na	na	watery	orange	75				
+magic.0668	magic.100.668	228	na	no	2017.08.11	2017.07.13	847	3	regular	na	na	soft	yellow	50				
+magic.0669	magic.100.669	240	na	no	2017.08.11	2017.07.25	2353	2	regular	na	na	formed	green	25				
+magic.0670	magic.100.670	246	na	no	2017.08.11	2017.07.24	2145	1	regular	na	na	soft	yellow	25				
+magic.0671	magic.100.671	190	na	no	2017.08.11	2017.07.18	1200	12	regular	na	na	watery	orange	75				
+magic.0672	magic.100.672	238	na	no	2017.08.11	2017.07.25	730	2	regular	na	na	formed	orange	25			ambiguous time	
+magic.0673	magic.100.673	231	na	no	2017.08.11	2017.07.24	1600	4	regular	na	na	watery	green	50				
+magic.0674	magic.100.674	235	na	no	2017.08.11	2017.07.24	1600	3	regular	na	na	soft	yellow	25				
+magic.0675	magic.100.675	248	na	no	2017.08.11	2017.07.29	1000	1	regular	na	na	soft	orange	25				
+magic.0676	magic.100.676	249	na	no	2017.08.11	2017.07.28	715	1	regular	na	na	soft	orange	50				
+magic.0677	magic.100.677	192	na	no	2017.08.11	2017.07.22	1300	12	regular	na	na	watery	yellow	25			"watery/soft, yellow/orange"	
+magic.0678	magic.100.678	237	na	no	2017.08.11	2017.07.23	1800	2	regular	na	na	watery	yellow	10				
+magic.0679	magic.100.679	228	na	no	2017.08.11	2017.07.20	na	4	regular	na	na	watery	green	50			no time given	
+magic.0680	magic.100.680	242	na	no	2017.08.11	2017.07.23	1330	1	regular	na	na	soft	yellow	50				
+magic.0681	magic.100.681	186	na	no	2017.08.11	2017.07.13	1900	12	regular	na	na	soft	yellow	75				
+magic.0682	magic.100.682	230	na	no	2017.08.11	2017.07.16	1000	3	regular	na	na	soft	yellow	50				
+magic.0683	magic.100.683	189	na	no	2017.08.11	2017.07.20	1600	12	regular	na	na	watery	yellow	50				
+magic.0684	magic.100.684	242	9	yes	2017.08.11	2017.07.18	955	na	na	na	na	na	na	na	Transitional			
+magic.0685	magic.100.685	246	18	yes	2017.08.11	2017.07.20	1035	na	na	na	na	na	na	na	Meconium		ambiguous time	
+magic.0686	magic.100.686	244	6	yes	2017.08.11	2017.07.19	947	na	na	na	na	na	na	na	na		ambiguous time	
+magic.0687	magic.100.687	245	21	yes	2017.08.11	2017.07.19	1305	na	na	na	na	na	na	na	Transitional			
+magic.0688	magic.100.688	239	na	no	2017.08.11	2017.07.25	1105	2	regular	na	na	soft	orange	50				
+magic.0689	magic.100.689	239	na	no	2017.08.11	2017.07.18	1200	1	regular	na	na	soft	orange	10				
+magic.0690	magic.100.690	227	na	no	2017.08.11	2017.07.19	2230	4	regular	na	na	soft	yellow	75			yellow/green	
+magic.0691	magic.100.691	233	na	no	2017.08.11	2017.07.17	2140	3	regular	na	na	watery	yellow	50				
+magic.0692	magic.100.692	238	na	no	2017.08.11	2017.07.18	1742	1	regular	na	na	soft	yellow	75				
+magic.0693	magic.100.693	234	na	no	2017.08.11	2017.07.19	1925	3	regular	na	na	watery	orange	75				
+magic.0694	magic.100.694	243	na	no	2017.08.11	2017.07.18	2225	0	regular	na	na	soft	yellow	50				
+magic.0695	magic.100.695	124	na	no	2017.08.18	2017.07.21	1200	24	regular	na	na	soft	green	75				
+magic.0696	magic.100.696	167	na	no	2017.08.18	2017.08.06	1700	na	Abx	during	5	watery	yellow	10				
+magic.0697	magic.100.697	131	na	no	2017.08.18	2017.08.06	932	24	regular	na	na	soft	yellow	50				
+magic.0698	magic.100.698	198	na	no	2017.08.18	2017.08.03	1410	12	regular	na	na	watery	orange	50				
+magic.0699	magic.100.699	241	na	no	2017.08.18	2017.08.05	1700	3	regular	na	na	soft	yellow	50			yellow/green	
+magic.0700	magic.100.700	243	na	no	2017.08.18	2017.08.06	1130	3	regular	na	na	soft	yellow	50			ambiguous time	
+magic.0701	magic.100.701	245	na	no	2017.08.18	2017.08.06	1600	3	regular	na	na	soft	yellow	25				
+magic.0702	magic.100.702	234	na	no	2017.08.18	2017.07.27	1320	4	regular	na	na	watery	orange	75				
+magic.0703	magic.100.703	233	na	no	2017.08.18	2017.07.24	836	4	regular	na	na	soft	yellow	10			ambiguous time	
+magic.0704	magic.100.704	253	na	no	2017.08.18	2017.07.29	1500	0	regular	na	na	soft	yellow	25				
+magic.0705	magic.100.705	250	na	no	2017.08.18	2017.07.30	1111	1	regular	na	na	formed	clay	75				
+magic.0706	magic.100.706	141	na	no	2017.08.18	2017.08.07	1027	24	regular	na	na	soft	clay	75				
+magic.0707	magic.100.707	241	na	no	2017.08.18	2017.07.29	1700	2	regular	na	na	soft	yellow	50				
+magic.0708	magic.100.708	132	na	no	2017.08.18	2017.08.01	1515	24	regular	na	na	formed	brown	50				
+magic.0709	magic.100.709	246	na	na	2017.08.18	na	na	na	na	na	na	na	na	na				
+magic.0710	magic.100.710	222	na	no	2017.08.18	2017.07.12	3	4	regular	na	na	watery	orange	75				
+magic.0711	magic.100.711	195	na	no	2017.08.18	2017.07.27	956	12	regular	na	na	soft	green	25				
+magic.0712	magic.100.712	238	na	no	2017.08.18	2017.08.01	2255	3	regular	na	na	soft	yellow	25				
+magic.0713	magic.100.713	127	na	no	2017.08.18	2017.07.29	1300	24	regular	na	na	formed	brown	25				
+magic.0714	magic.100.714	196	na	no	2017.08.18	2017.08.03	1300	12	regular	na	na	soft	yellow	75				
+magic.0715	magic.100.715	140	na	no	2017.08.18	2017.08.05	840	24	regular	na	na	watery	green	25			ambiguous time	
+magic.0716	magic.100.716	137	na	no	2017.08.18	2017.07.29	730	24	regular	na	na	watery	green	75			watery and soft	
+magic.0717	magic.100.717	109	na	no	2017.08.18	2017.07.30	1240	na	Abx	after	30	formed	brown	75				
+magic.0718	magic.100.718	251	na	no	2017.08.18	2017.07.28	1730	0	regular	na	na	watery	meconium	10	Meconium			
+magic.0719	magic.100.719	235	na	no	2017.08.18	2017.07.31	1130	4	regular	na	na	soft	yellow	25				
+magic.0720	magic.100.720	237	na	no	2017.09.01	2017.08.06	2000	4	regular	na	na	watery	yellow	50				
+magic.0721	magic.100.721	242	na	no	2017.09.01	2017.08.06	1400	3	regular	na	na	soft	orange	50				
+magic.0722	magic.100.722	253	na	no	2017.09.01	2017.08.13	2209	1	regular	na	na	soft	green/brown	50				
+magic.0723	magic.100.723	245	na	no	2017.09.01	2017.07.29	1224	2	regular	na	na	soft	yellow	75				
+magic.0724	magic.100.724	202	na	no	2017.09.01	2017.08.16	900	12	regular	na	na	soft	yellow	75				
+magic.0725	magic.100.725	263	na	no	2017.09.01	2017.08.13	1430	0	regular	na	na	soft	green	25				
+magic.0726	magic.100.726	246	na	no	2017.09.01	2017.08.17	1300	4	regular	na	na	soft	yellow	50				
+magic.0727	magic.100.727	253	na	no	2017.09.01	2017.08.15	930	3	regular	na	na	na	na	na				
+magic.0728	magic.100.728	259	na	no	2017.09.01												sheet with data was not attached	
+magic.0729	magic.100.729	247	na	no	2017.09.01	2017.08.05	1800	2	regular	na	na	watery	yellow	25				
+magic.0730	magic.100.730	253	na	no	2017.09.01	2017.08.03	5	1	regular	na	na	soft	green	50				
+magic.0731	magic.100.731	242	na	no	2017.09.01	2017.07.30	1810	2	regular	na	na	soft	orange	25				
+magic.0732	magic.100.732	256	na	no	2017.09.01	2017.08.15	330	2	regular	na	na	soft	yellow	25				
+magic.0733	magic.100.733	147	na	no	2017.09.01	2017.08.16	830	24	regular	na	na	soft	orange	50				
+magic.0734	magic.100.734	187	na	no	2017.09.01	2017.07.13	1000	12	regular	na	na	watery	orange	50				
+magic.0735	magic.100.735	249	na	no	2017.09.01	2017.08.14	1524	2	regular	na	na	watery	orange	75				
+magic.0736	magic.100.736	248	na	no	2017.09.01	2017.08.04	1800	2	regular	na	na	watery	orange	25				
+magic.0737	magic.100.737	254	na	no	2017.09.01	2017.08.14	1800	1	regular	na	na	watery	yellow	25				
+magic.0738	magic.100.738	237	na	no	2017.09.01	2017.07.30	1000	3	regular	na	na	watery	yellow	10				
+magic.0739	magic.100.739	243	na	no	2017.09.01	2017.07.30	2205	2	regular	na	na	soft	yellow	50				
+magic.0740	magic.100.740	247	na	no	2017.09.01	2017.07.28	1830	1	regular	na	na	soft	orange	25				
+magic.0741	magic.100.741	246	na	no	2017.09.01	2017.08.07	1730	3	regular	na	na	soft	yellow	25				
+magic.0742	magic.100.742	250	na	no	2017.09.01	2017.08.06	2200	2	regular	na	na	soft	yellow	75				
+magic.0743	magic.100.743	258	na	no	2017.09.01	2017.08.10	1913	1	regular	na	na	soft	brown	25				
+magic.0744	magic.100.744	197	na	no	2017.09.01	2017.08.08	na	12	regular	na	na	soft	orange	75				
+magic.0745	magic.100.745	252	na	no	2017.09.01	2017.07.29	1500	0	regular	na	na	watery	yellow	10				
+magic.0746	magic.100.746	239	na	no	2017.09.01	2017.08.08	1300	4	regular	na	na	soft	orange	50				
+magic.0747	magic.100.747	224	na	no	2017.09.01	2017.07.12	2332	4	regular	na	na	soft	yellow	50				
+magic.0748	magic.100.748	241	na	no	2017.09.01	2017.07.17	1830	0	regular	na	na	soft	green	25				
+magic.0749	magic.100.749	136	na	no	2017.09.01	2017.08.09	1300	24	regular	na	na	soft	yellow	75				
+magic.0750	magic.100.750	255	na	no	2017.09.01	2017.08.12	2130	1	regular	na	na	soft	yellow	25				
+magic.0751	magic.100.751	142	na	no	2017.09.01	2017.08.09	1900	24	regular	na	na	soft	orange	50				
+magic.0752	magic.100.752	238	na	no	2017.09.01	2017.08.09	400	4	regular	na	na	soft	yellow	25				
+magic.0753	magic.100.753	142	na	no	2017.09.01	2017.08.06	1200	24	regular	na	na	watery	green	50				
+magic.0754	magic.100.754	250	na	no	2017.09.01	2017.08.13	345	3	regular	na	na	soft	green	75				
+magic.0755	magic.100.755	257	na	no	2017.09.01	2017.08.13	800	2	regular	na	na	soft	yellow/orange	75				
+magic.0756	magic.100.756	251	na	no	2017.09.01	2017.08.09	2042	2	regular	na	na	watery	yellow	25				
+magic.0757	magic.100.757	239	na	no	2017.09.01	2017.08.01	1930	3	regular	na	na	soft	orange	75				
+magic.0758	magic.100.758	135	na	no	2017.09.01	2017.08.02	1030	24	regular	na	na	watery	yellow	50				
+magic.0759	magic.100.759	251	na	no	2017.09.01	2017.08.03	800	1	regular	na	na	watery	yellow	50				
+magic.0760	magic.100.760	248	na	no	2017.09.01	2017.07.24	1115	na	na	na	na	na	na	na	na		"assuming these are all hospital, because no paperwork"	
+magic.0761	magic.100.761	249	na	no	2017.09.01	2017.07.24	1702	na	na	na	na	na	na	na	na			
+magic.0762	magic.100.762	249	na	no	2017.09.01	2017.07.25	1205	na	na	na	na	na	na	na	na			
+magic.0763	magic.100.763	254	na	no	2017.09.01	2017.08.01	1505	na	na	na	na	na	na	na	na			
+magic.0764	magic.100.764	255	na	no	2017.09.01	2017.08.02	1320	na	na	na	na	na	na	na	na			
+magic.0765	magic.100.765	250	na	no	2017.09.01	2017.07.27	1120	na	na	na	na	na	na	na	na			
+magic.0766	magic.100.766	254	na	no	2017.09.01	2017.08.02	412	na	na	na	na	na	na	na	na			
+magic.0767	magic.100.767	126	na	no	2017.09.01	2017.07.15	730	24	regular	na	na	watery	yellow	75				
+magic.0768	magic.100.768	247	na	no	2017.09.01	2017.08.11	1800	3	regular	na	na	soft	brown	25				
+magic.0769	magic.100.769	245	na	no	2017.09.01	2017.08.12	2221	4	regular	na	na	soft	yellow	50				
+magic.0770	magic.100.770	248	na	no	2017.09.01	2017.08.12	1800	3	regular	na	na	soft	yellow	50				
+magic.0771	magic.100.771	256	na	no	2017.09.06	2017.08.07	1420	1	regular	na	na	soft	yellow	25				
+magic.0772	magic.100.772	256	na	no	2017.09.06	2017.08.02	1540	0	regular	na	na	watery	yellow	25				
+magic.0773	magic.100.773	254	na	no	2017.09.06	2017.08.27	857	4	regular	na	na	soft	orange	75				
+magic.0774	magic.100.774	258	na	no	2017.09.06	na	na	2	regular	na	na	soft	green	50				
+magic.0775	magic.100.775	210	na	no	2017.09.06	2017.08.31	1830	12	regular	na	na	soft	yellow	75				
+magic.0776	magic.100.776	258	na	no	2017.09.06	2017.08.27	1630	3	regular	na	na	soft	brown	50				
+magic.0777	magic.100.777	149	na	no	2017.09.06	2017.08.22	1800	24	regular	na	na	watery	orange	75				
+magic.0778	magic.100.778	109	na	no	2017.09.06	2017.08.27	1630	na	Abx	after	10	formed	brown	50				
+magic.0779	magic.100.779	266	na	no	2017.09.06	2017.08.29	1834	2	regular	na	na	soft	orange	25				
+magic.0780	magic.100.780	260	na	no	2017.09.06	2017.08.27	700	3	regular	na	na	watery	brown	50				
+magic.0781	magic.100.781	261	na	no	2017.09.06	2017.08.25	1203	2	regular	na	na	soft	yellow	25				
+magic.0782	magic.100.782	253	na	no	2017.09.06	2017.08.23	815	4	regular	na	na	soft	green	75				
+magic.0783	magic.100.783	145	na	no	2017.09.06	2017.08.30	1600	na	Abx	after	5	formed	brown	50				
+magic.0784	magic.100.784	211	na	no	2017.09.06	2017.09.02	945	12	regular	na	na	soft	yellow	25				
+magic.0785	magic.100.785	267	na	no	2017.09.06	2017.08.28	600	1	regular	na	na	soft	brown	75				
+magic.0786	magic.100.786	153	na	no	2017.09.06	2017.08.26	2030	24	regular	na	na	soft	green	50				
+magic.0787	magic.100.787	265	na	no	2017.09.06	2017.08.28	1200	2	regular	na	na	watery	green	25				
+magic.0788	magic.100.788	264	na	no	2017.09.06	2017.08.27	1030	2	regular	na	na	soft	yellow	50				
+magic.0789	magic.100.789	255	na	no	2017.09.06	na	na	3	regular	na	na	soft	yellow	25				
+magic.0790	magic.100.790	257	na	no	2017.09.06	2017.08.22	1700	3	regular	na	na	formed	orange	50				
+magic.0791	magic.100.791	205	na	no	2017.09.06	2017.08.28	1100	12	regular	na	na	soft	green	25				
+magic.0792	magic.100.792	254	na	no	2017.09.06	2017.08.13	1010	2	regular	na	na	soft	orange	50				
+magic.0793	magic.100.793	241	na	no	2017.09.06	2017.08.12	2030	4	regular	na	na	watery	yellow	75				
+magic.0794	magic.100.794	242	na	no	2017.09.06	2017.08.13	1030	4	regular	na	na	soft	orange	50				
+magic.0795	magic.100.795	249	na	no	2017.09.06	2017.08.11	1356	3	regular	na	na	watery	orange	50				
+magic.0796	magic.100.796	257	na	no	2017.09.06	2017.08.08	1000	1	regular	na	na	soft	yellow	75				
+magic.0797	magic.100.797	109	na	no	2017.09.06	2017.08.12	700	na	Abx	during	na	formed	brown	25				
+magic.0798	magic.100.798	167	na	na	2017.09.06	na	na	na	na	na	na	na	na	na			no data on form	
+magic.0799	magic.100.799	146	na	na	2017.09.06	na	na	na	na	na	na	na	na	na			no data on form	
+magic.0800	magic.100.800	243	na	no	2017.09.06	2017.08.13	1550	4	regular	na	na	soft	orange	50				
+magic.0801	magic.100.801	148	na	no	2017.09.06	2017.08.16	1800	24	regular	na	na	soft	green	10				
+magic.0802	magic.100.802	167	na	no	2017.09.06	2017.08.24	949	na	Abx	after	10	soft	orange	25				
+magic.0803	magic.100.803	266	na	no	2017.09.06	2017.08.22	1755	1	regular	na	na	soft	orange	10				
+magic.0804	magic.100.804	263	na	no	2017.09.06	2017.08.16	2335	1	regular	na	na	soft	clay	50				
+magic.0805	magic.100.805	263	na	no	2017.09.06	2017.08.24	1030	2	regular	na	na	soft	green	75				
+magic.0806	magic.100.806	254	na	no	2017.09.06	2017.08.20	943	3	regular	na	na	soft	orange	75				
+magic.0807	magic.100.807	248	na	no	2017.09.06	2017.08.20	712	4	regular	na	na	soft	yellow	50				
+magic.0808	magic.100.808	256	na	no	2017.09.06	2017.08.21	2345	3	regular	na	na	watery	yellow	10				
+magic.0809	magic.100.809	125	na	na	2017.09.06	na	na	na	na	na	na	na	na	na			No paperwork	
+magic.0810	magic.100.810	259	na	na	2017.09.06	na	na	na	na	na	na	na	na	na			No paperwork	
+magic.0811	magic.100.811	260	na	no	2017.09.06	2017.08.13	130	1	regular	na	na	watery	orange	50				
+magic.0812	magic.100.812	144	na	no	2017.09.06	2017.08.19	853	24	regular	na	na	hard	brown	25				
+magic.0813	magic.100.813	208	na	no	2017.09.06	2017.08.21	850	12	regular	na	na	soft	orange	75				
+magic.0814	magic.100.814	261	na	no	2017.09.06	2017.08.19	1118	1	regular	na	na	watery	yellow	25				
+magic.0815	magic.100.815	265	na	no	2017.09.06	2017.08.23	1156	1	regular	na	na	na	na	na				
+magic.0816	magic.100.816	251	na	no	2017.09.06	2017.08.17	1919	3	regular	na	na	soft	yellow	10				
+magic.0817	magic.100.817	204	na	no	2017.09.06	2017.08.23	1500	12	regular	na	na	watery	orange	75				
+magic.0818	magic.100.818	145	na	no	2017.09.06	2017.08.22	1600	na	Abx	during	na	soft	orange	75				
+magic.0819	magic.100.819	268	na	no	2017.09.06	2017.08.23	1530	na	na	na	na	na	na	na	Meconium			
+magic.0820	magic.100.820	260	na	no	2017.09.06	2017.08.09	250	na	na	na	na	na	na	na	Transitional			
+magic.0821	magic.100.821	267	na	no	2017.09.06	2017.08.23	100	na	na	na	na	na	na	na	Meconium			
+magic.0822	magic.100.822	266	na	no	2017.09.06	2017.08.18	2140	na	na	na	na	na	na	na	Transitional			
+magic.0823	magic.100.823	259	na	no	2017.09.06	2017.08.08	1445	na	na	na	na	na	na	na				
+magic.0824	magic.100.824	250	na	no	2017.09.08	2017.08.20	2030	4	regular	na	na	soft	yellow	25				
+magic.0825	magic.100.825	151	na	no	2017.09.08	2017.08.19	1730	24	regular	na	na	soft	clay	50				
+magic.0826	magic.100.826	257	na	na	2017.09.08	na	na	na	na	na	na	na	na	na	na		No paperwork	
+magic.0827	magic.100.827	260	na	no	2017.09.08	2017.08.20	800	2	regular	na	na	watery	orange	25				
+magic.0828	magic.100.828	264	na	no	2017.09.08	2017.08.18	1630	1	regular	na	na	watery	orange	10				
+magic.0829	magic.100.829	264	na	no	2017.09.08	2017.08.16	1150	0	regular	na	na	na	na	na	Meconium			
+magic.0830	magic.100.830	249	na	no	2017.09.08	2017.08.18	912	4	regular	na	na	watery	orange	75				
+magic.0831	magic.100.831	109	na	no	2017.09.08	2017.08.19	715		Abx	after	2	formed	brown	25				
+magic.0832	magic.100.832	145	na	no	2017.09.08	2017.08.15	900	24	Abx	prior	0	soft	orange/brown	75				
+magic.0833	magic.100.833	247	na	no	2017.09.08	2017.08.22	1900	4	regular	na	na	soft	green 	25				
+magic.0834	magic.100.834	251	na	no	2017.09.08	2017.08.23	1040	4	regular	na	na	soft	yellow	50				
+magic.0835	magic.100.835	203	na	no	2017.09.08	2017.08.23	2115	12	regular	na	na	watery/soft	yellow	50				
+magic.0836	magic.100.836	268	na	no	2017.09.15	2017.08.29	1615	1	regular	na	na	soft	yellow	25				
+magic.0837	magic.100.837	257	na	no	2017.09.15	2017.08.29	930	4	regular	na	na	formed	yellow	25				
+magic.0838	magic.100.838	259	na	no	2017.09.15	2017.08.31	630	3	regular	na	na	watery	brown	50				
+magic.0839	magic.100.839	259	na	no	2017.09.15	2017.09.04	1620	4	regular	na	na	watery	brown	50				
+magic.0840	magic.100.840	270	na	no	2017.09.15	2017.09.02	400	0	regular	na	na	soft	meconium	50	na		Meconium	
+magic.0841	magic.100.841	209	na	no	2017.09.15	2017.09.02	na	12	regular	na	na	soft	brown	50				
+magic.0842	magic.100.842	260	na	no	2017.09.15	2017.09.03	927	4	regular	na	na	soft	orange	50				
+magic.0843	magic.100.843	261	na	no	2017.09.15	2017.09.01	1123	3	regular	na	na	soft	yellow	50				
+magic.0844	magic.100.844	155	na	no	2017.09.15	2017.09.02	1200	24	regular	na	na	formed	green	75				
+magic.0845	magic.100.845	256	na	no	2017.09.15	2017.08.28	1143	4	regular	na	na	watery	yellow	10				
+magic.0846	magic.100.846	252	na	no	2017.09.15	2017.08.28	1215	4	regular	na	na	watery	yellow/brown	50				
+magic.0847	magic.100.847	167	na	no	2017.09.21	2017.09.11	1955	na	Abx	after	30	watery	yellow	10				
+magic.0848	magic.100.848	102	na	no	2017.09.21	2017.09.12	1200	36	regular	na	na	hard	brown	50				
+magic.0849	magic.100.849	268	na	no	2017.09.21	2017.09.12	1540	3	regular	na	na	soft	orange	50				
+magic.0850	magic.100.850	267	na	no	2017.09.21	2017.09.10	1700	3	regular	na	na	soft	brown	25				
+magic.0851	magic.100.851	272	na	no	2017.09.21	2017.09.07	1030	na	regular	na	na	na	na	na	Transitional			
+magic.0852	magic.100.852	271	na	no	2017.09.21	2017.09.02	1230	na	regular	na	na	na	na	na	Transitional			
+magic.0853	magic.100.853	271	na	no	2017.09.21	2017.09.01	1450	na	regular	na	na	na	na	na	Transitional			
+magic.0854	magic.100.854	273	na	no	2017.09.21	2017.09.08	1300	na	regular	na	na	na	na	na	Transitional			
+magic.0855	magic.100.855	269	na	no	2017.09.21	2017.09.01	1000	na	regular	na	na	na	na	na	Transitional			
+magic.0856	magic.100.856	265	na	no	2017.09.21	2017.09.11	1600	4	regular	na	na	watery	green	25				
+magic.0857	magic.100.857	264	na	no	2017.09.21	2017.09.03	1340	3	regular	na	na	soft	yellow	10				
+magic.0858	magic.100.858	275	na	no	2017.09.21	2017.09.10	1720	0	regular	na	na	soft	brown	50				
+magic.0859	magic.100.859	101	na	no	2017.09.21	2017.09.10	1630	36	regular	na	na	formed	brown	25				
+magic.0860	magic.100.860	264	na	no	2017.09.21	2017.09.10	1300	4	regular	na	na	soft	yellow/orange	50				
+magic.0861	magic.100.861	217	na	no	2017.09.21	2017.09.10	700	12	regular	na	na	soft	yellow	50				
+magic.0862	magic.100.862	270	na	no	2017.09.21	2017.09.13	1500	2	regular	na	na	soft	orange	10				
+magic.0863	magic.100.863	274	na	no	2017.09.21	2017.09.14	1530	1	regular	na	na	watery	orange	75				
+magic.0864	magic.100.864	274	na	na	2017.09.21	2017.09.08	2200	0	regular	na	na	soft	green	25				
+magic.0865	magic.100.865	109	na	no	2017.09.21	2017.09.15	930	na	Abx	after	20	hard	brown	25				
+magic.0866	magic.100.866	221	na	no	2017.09.21	2017.09.13	1130	12	regular	na	na	soft	brown	50				
+magic.0867	magic.100.867	222	na	no	2017.09.21	2017.09.14	1700	12	regular	na	na	soft	orange	75				
+magic.0868	magic.100.868	275	na	no	2017.09.21	2017.09.15	845	1	regular	na	na	soft	yellow/brown	75				
+magic.0869	magic.100.869	273	na	no	2017.09.21	2017.09.12	1432	1	regular	na	na	soft	yellow	50				
+magic.0870	magic.100.870	276	na	no	2017.09.21	2017.09.12	1715	0	regular	na	na	soft	meconium	10				
+magic.0871	magic.100.871	218	na	no	2017.09.21	2017.09.12	1310	12	regular	na	na	watery	yellow	50				
+magic.0872	magic.100.872	164	na	no	2017.09.21	2017.09.13	800	24	regular	na	na	soft	yellow	50				
+magic.0873	magic.100.873	220	na	no	2017.09.21	2017.09.12	940	12	regular	na	na	soft	yellow/orange	75				
+magic.0874	magic.100.874	165	na	no	2017.09.21	2017.09.14	1615	24	regular	na	na	formed	brown	50				
+magic.0875	magic.100.875	271	na	no	2017.09.21	2017.09.12	1250	2	regular	na	na	soft	yellow	50				
+magic.0876	magic.100.876	272	na	no	2017.09.21	2017.09.12	1006	1	regular	na	na	soft	yellow	50				
+magic.0877	magic.100.877	111	na	no	2017.09.21	2017.09.18	935	na	Abx	prior	na	watery	green	75				
+magic.0878	magic.100.878	276	na	no	2017.09.21	2017.09.17	1030	1	regular	na	na	soft	yellow	50				
+magic.0879	magic.100.879	106	na	no	2017.09.21	2017.09.15	1211	36	regular	na	na	hard	brown	50				
+magic.0880	magic.100.880	105	na	no	2017.09.21	2017.09.15	800	36	regular	na	na	soft	brown	75				
+magic.0881	magic.100.881	224	na	no	2017.09.21	2017.09.14	2123	12	regular	na	na	watery	brown	25				
+magic.0882	magic.100.882	168	na	no	2017.09.21	2017.09.18	700	24	regular	na	na	soft	brown	50				
+magic.0883	magic.100.883	145	na	no	2017.09.21	2017.09.06	800	na	Abx	after	10	hard	brown	50				
+magic.0884	magic.100.884	271	na	no	2017.09.21	2017.09.05	1200	1	regular	na	na	watery	yellow	25				
+magic.0885	magic.100.885	267	na	no	2017.09.21	2017.09.03	1300	2	regular	na	na	soft	orange	75				
+magic.0886	magic.100.886	268	na	no	2017.09.21	2017.09.05	1540	2	regular	na	na	soft	orange	75				
+magic.0887	magic.100.887	213	na	no	2017.09.21	na	na	na	regular	na	na	na	na	na	na			
+magic.0888	magic.100.888	158	na	no	2017.09.21	2017.09.06	815	24	regular	na	na	soft	orange	50				
+magic.0889	magic.100.889	261	na	no	2017.09.21	2017.09.06	1056		regular	na	na	watery	yellow	50				
+magic.0890	magic.100.890	266	na	no	2017.09.21	2017.09.05	1850	3	regular	na	na	soft	orange	75				
+magic.0891	magic.100.891	270	na	no	2017.09.21	2017.09.06	1500	1	regular	na	na	soft	orange	25				
+magic.0892	magic.100.892	265	na	no	2017.09.21	2017.09.05	1506	3	regular	na	na	soft/watery	green	50				
+magic.0893	magic.100.893	107	na	no	2017.09.29	2017.09.18	1330	36	regular	na	na	formed	green	50				
+magic.0894	magic.100.894	104	na	no	2017.09.29	2017.09.19	1017	36	regular	na	na	formed	brown	50				
+magic.0895	magic.100.895	267	na	no	2017.09.29	2017.09.17	1445	4	regular	na	na	soft	brown	50				
+magic.0896	magic.100.896	266	na	no	2017.09.29	2017.09.12	1000	4	regular	na	na	soft	yellow	25				
+magic.0897	magic.100.897	275	na	no	2017.09.29	2017.09.22	1650	2	regular	na	na	soft	yellow/green	50				
+magic.0898	magic.100.898	227	na	no	2017.09.29	2017.09.22	1200	12	regular	na	na	watery	orange	50				
+magic.0899	magic.100.899	273	na	no	2017.09.29	2017.09.18	1730	2	regular	na	na	soft	yellow	50				
+magic.0900	magic.100.900	166	na	no	2017.09.29	na	na	24	regular	na	na	formed	brown	75				
+magic.0901	magic.100.901	111	na	no	2017.09.29	2017.09.22	2125	na	Abx	after	5	watery	yellow	50				
+magic.0902	magic.100.902	276	na	no	2017.09.29	2017.09.24	1830	2	regular	na	na	soft	yellow	50				
+magic.0903	magic.100.903	109	na	no	2017.09.29	2017.09.24	900	36	regular	na	na	soft	brown	50				
+magic.0904	magic.100.904	219	na	no	2017.09.29	2017.09.12	1920	12	regular	na	na	watery	clay	75				
+magic.0905	magic.100.905	170	na	no	2017.09.29	2017.09.23	1500	24	regular	na	na	watery	brown	75				
+magic.0906	magic.100.906	173	na	no	2017.10.05	2017.09.29	600	24	regular	na	na	soft	orange	75				
+magic.0907	magic.100.907	233	na	no	2017.10.05	2017.09.27	2100	12	regular	na	na	watery	green	50				
+magic.0908	magic.100.908	172	na	no	2017.10.05	2017.09.29	1257	24	regular	na	na	watery	yellow	50				
+magic.0909	magic.100.909	269	na	no	2017.10.05	2017.09.27	2200	4	regular	na	na	watery	orange	75				
+magic.0910	magic.100.910	231	na	no	2017.10.05	2017.09.30	815	4	regular	na	na	soft	green	75				
+magic.0911	magic.100.911	280	na	no	2017.10.05	2017.09.29	1630	1	regular	na	na	watery	green	50				
+magic.0912	magic.100.912	273	na	no	2017.10.05	2017.09.25	730	3	regular	na	na	soft	yellow	50				
+magic.0913	magic.100.913	226	na	no	2017.10.05	2017.09.19	1000	12	regular	na	na	formed	orange	75				
+magic.0914	magic.100.914	271	na	no	2017.10.05	2017.09.26	1800	4	regular	na	na	watery	yellow	25				
+magic.0915	magic.100.915	272	na	no	2017.10.05	2017.09.26	1200	3	regular	na	na	soft	yellow	25				
+magic.0916	magic.100.916	277	na	no	2017.10.05	2017.09.26	2150	2	regular	na	na	soft	yellow	75				
+magic.0917	magic.100.917	269	na	no	2017.10.05	2017.09.06	519	1	regular	na	na	watery	orange	75				
+magic.0918	magic.100.918	268	na	no	2017.10.05	2017.09.19	1655	4	regular	na	na	soft	orange	50				
+magic.0919	magic.100.919	272	na	no	2017.10.05	2017.09.19	1943	2	regular	na	na	soft	yellow	10				
+magic.0920	magic.100.920	162	na	no	2017.10.05	2017.09.16	930	24	regular	na	na	watery	brown	75				
+magic.0921	magic.100.921	270	na	no	2017.10.05	2017.09.20	1700	3	regular	na	na	soft	orange	25				
+magic.0922	magic.100.922	271	na	no	2017.10.05	2017.09.19	1500	3	regular	na	na	watery	yellow	50				
+magic.0923	magic.100.923	277	na	no	2017.10.05	2017.09.19	2130	1	regular	na	na	soft	yellow	10				
+magic.0924	magic.100.924	269	na	no	2017.10.05	2017.09.13	1810	2	regular	na	na	watery	yellow	na				
+magic.0925	magic.100.925	145	na	no	2017.10.05	2017.09.24	720	na	Abx	after	30	soft	green/brown	75				
+magic.0926	magic.100.926	269	na	no	2017.10.05	2017.09.20	1700	3	regular	na	na	watery	orange	50				
+magic.0927	magic.100.927	274	na	no	2017.10.05	2017.09.27	700	3	regular	na	na	watery	yellow	75				
+magic.0928	magic.100.928	274	na	no	2017.10.05	2017.09.20	na	2	regular	na	na	watery	yellow	25				
+magic.0929	magic.100.929	275	na	no	2017.10.05	na	1815	3	regular	na	na	soft	green/brown	75				
+magic.0930	magic.100.930	270	na	no	2017.10.05	na	na	4	regular	na	na	soft	orange	50				
+magic.0931	magic.100.931	280	na	no	2017.10.13	2017.10.06	1254	2	regular	na	na	watery	yellow	75				
+magic.0932	magic.100.932	274	na	no	2017.10.13	2017.10.05	230	4	regular	na	na	watery	green	75				
+magic.0933	magic.100.933	181	na	no	2017.10.13	2017.10.06	740	24	regular	na	na	formed	brown	75				
+magic.0934	magic.100.934	111	na	no	2017.10.13	2017.10.08	1015	na	Abx	after	10	soft	brown	75				
+magic.0935	magic.100.935	180	na	no	2017.10.13	2017.10.07	1200	24	regular	na	na	formed	brown	25				
+magic.0936	magic.100.936	169	na	no	2017.10.13	2017.10.01	1430	na	Abx	during	5	hard	green/brown	50				
+magic.0937	magic.100.937	175	na	no	2017.10.13	na	na	24	regular	na	na	watery/ soft	orange/brown	50				
+magic.0938	magic.100.938	111	na	no	2017.10.13	2017.10.02	2115	36	regular	na	na	soft	brown	75				
+magic.0939	magic.100.939	282	na	no	2017.10.13	2017.10.03	1300	1	regular	na	na	soft	yellow	50				
+magic.0940	magic.100.940	281	na	no	2017.10.13	2017.10.02	2117	1	regular	na	na	soft	yellow	50				
+magic.0941	magic.100.941	234	na	no	2017.10.13	2017.09.30	1140	12	regular	na	na	watery	brown	75				
+magic.0942	magic.100.942	273	na	no	2017.10.13	2017.10.02	1805	4	regular	na	na	soft	yellow	50				
+magic.0943	magic.100.943	276	na	no	2017.10.13	2017.10.04	2020	3	regular	na	na	soft	yellow	50				
+magic.0944	magic.100.944	177	na	no	2017.10.13	2017.10.03	1830	24	regular	na	na	watery	yellow	25				
+magic.0945	magic.100.945	272	na	no	2017.10.13	2017.10.03	1000	4	regular	na	na	watery/ soft	yellow	10				
+magic.0946	magic.100.946	229	na	no	2017.10.13	2017.09.25	2030	12	regular	na	na	soft	yellow	75				
+magic.0947	magic.100.947	235	na	no	2017.10.13	2017.10.04	1430	12	regular	na	na	soft	yellow	75				
+magic.0948	magic.100.948	116	na	no	2017.10.13	2017.01.05	1837	36	regular	na	na	watery	yellow	75				
+magic.0949	magic.100.949	283	na	no	2017.10.13	2017.10.02	1855	1	regular	na	na	soft	orange	50				
+magic.0950	magic.100.950	277	na	no	2017.10.13	2017.10.04	300	3	regular	na	na	soft	yellow	50				
+magic.0951	magic.100.951	185	na	no	2017.10.20	2017.10.10	800	24	regular	na	na	soft 	orange	50			stool has undigested blueberries 	
+magic.0952	magic.100.952	237	na	no	2017.10.20	2017.10.09	2000	12	regular	na	na	watery	yellow	50				
+magic.0953	magic.100.953	119	na	no	2017.10.20	2017.10.11	1030	36	regular	na	na	soft	brown	75				
+magic.0954	magic.100.954	161	na	no	2017.10.20	2017.10.03	2000	24	regular	na	na	soft	green	50				
+magic.0955	magic.100.955	285	na	no	2017.10.20	2017.10.10	1600	1	regular	na	na	soft	orange	25				
+magic.0956	magic.100.956	276	na	no	2017.10.20	2017.10.08	1200	4	regular	na	na	watery	yellow	25				
+magic.0957	magic.100.957	189	na	no	2017.10.20	2017.10.09	930	24	regular	na	na	soft	orange	25				
+magic.0958	magic.100.958	289	na	no	2017.10.20	2017.10.11	1236	1	regular	na	na	soft	yellow	25			These might be swapped	
+magic.0959	magic.100.959	186	na	no	2017.10.20	2017.10.14	1600	24	regular	na	na	soft	green	50			These might be swapped	
+magic.0960	magic.100.960	115	na	no	2017.10.20	2017.10.11	1000	36	regular	na	na	soft	green	75				
+magic.0961	magic.100.961	281	na	no	2017.10.20	2017.10.15	739	3	regular	na	na	soft	yellow	25				
+magic.0962	magic.100.962	289	na	no	2017.10.20	2017.10.06	1448	0	regular	na	na	soft	green	25				
+magic.0963	magic.100.963	245	na	no	2017.10.20	2017.10.15	1100	12	regular	na	na	soft	yellow	50				
+magic.0964	magic.100.964	187	na	no	2017.10.20	2017.10.13	45	24	regular	na	na	watery	yellow/ brown	50				
+magic.0965	magic.100.965	277	na	no	2017.10.20	2017.10.13	20	4	regular	na	na	watery	yellow	50				
+magic.0966	magic.100.966	258	na	no	2017.10.20	2017.10.11	1316	4	regular	na	na	watery	green/brown	75				
+magic.0967	magic.100.967	120	na	no	2017.10.20	2017.10.10	1535	36	regular	na	na	soft	green/brown	50				
+magic.0968	magic.100.968	268	na	no	2017.10.20	2017.10.10	1424	1	regular	na	na	soft	yellow	75				
+magic.0969	magic.100.969	122	na	no	2017.10.20	2017.10.12	1730	36	regular	na	na	watery/ soft	brown	75				
+magic.0970	magic.100.970	239	na	no	2017.10.20	2017.10.12	730	12	regular	na	na	soft	brown	75				
+magic.0971	magic.100.971	111	na	no	2017.10.20	2017.10.11	1950	na	Abx	after	10	hard	brown	50				
+magic.0972	magic.100.972	282	na	no	2017.10.20	2017.10.10	2145	2	regular	na	na	soft	yellow	25				
+magic.0973	magic.100.973	169	na	no	2017.10.20	2017.10.08	1345	na	Abx	after	2	soft	yellow/ green	10				
+magic.0974	magic.100.974	283	na	no	2017.10.20	2017.10.09	1300	2	regular	na	na	formed	orange	50				
+magic.0975	magic.100.975	281	na	no	2017.10.20	2017.10.09	3	2	regular	na	na	soft	yellow	50				
+magic.0976	magic.100.976	286	na	no	2017.10.20	2017.10.05	1531	0	regular	na	na	soft	brown	75				
+magic.0977	magic.100.977	287	na	yes	2017.10.20	2017.10.05	2250	na	regular	na	na	na	na	na	Meconium			
+magic.0978	magic.100.978	282	na	yes	2017.10.20	2017.09.27	1435	na	regular	na	na	na	na	na	Meconium			
+magic.0979	magic.100.979	285	na	yes	2017.10.20	2017.10.05	1045	na	regular	na	na	na	na	na	Transitional			
+magic.0980	magic.100.980	279	na	yes	2017.10.20	2017.09.21	2001	na	regular	na	na	na	na	na	Transitional			
+magic.0981	magic.100.981	288	na	yes	2017.10.20	2017.10.06	1045	na	regular	na	na	na	na	na	Transitional			
+magic.0982	magic.100.982	280	na	yes	2017.10.20	2017.09.26	1215	na	regular	na	na	na	na	na	Transitional			
+magic.0983	magic.100.983	282	na	yes	2017.10.20	2017.09.28	100	na	regular	na	na	na	na	na	Transitional			
+magic.0984	magic.100.984	278	na	yes	2017.10.20	2017.09.20	1530	na	regular	na	na	na	na	na	Transitional			
+magic.0985	magic.100.985	277	na	no	2017.10.20	2017.09.14	1105	na	regular	na	na	na	na	na	Meconium			
+magic.0986	magic.100.986	169	na	na	2017.10.26	2017.10.15	1830	na	Abx	after	10	formed	green/brown	75				
+magic.0987	magic.100.987	283	na	no	2017.10.26	2017.10.16	1700	3	regular	na	na	soft	orange	75				
+magic.0988	magic.100.988	190	na	no	2017.10.26	2017.10.16	1506	24	regular	na	na	soft	orange	25				
+magic.0989	magic.100.989	280	na	no	2017.10.26	2017.10.13	1844	3	regular	na	na	watery	brown	75				
+magic.0990	magic.100.990	290	na	no	2017.10.26	2017.10.13	230	0	regular	na	na	soft	meconium	10	Meconium			
+magic.0991	magic.100.991	286	na	no	2017.10.26	2017.10.17	1855	2	regular	na	na	soft	yellow	10				
+magic.0992	magic.100.992	241	na	no	2017.10.26	2017.10.16	1800	12	regular	na	na	watery	yellow	75				
+magic.0993	magic.100.993	188	na	no	2017.10.26	2017.10.16	940	24	regular	na	na		brown					
+magic.0994	magic.100.994	279	na	no	2017.10.26	2017.10.02	1650	1	regular	na	na	formed	yellow	50				
+magic.0995	magic.100.995	279	na	no	2017.10.26	2017.08.17	2025	3	regular	na	na	soft	green	25				
+magic.0996	magic.100.996	279	na	no	2017.10.26	2017.09.25	940	1	regular	na	na	formed	yellow	50				
+magic.0997	magic.100.997	279	na	no	2017.10.26	2017.10.10	2232	4	regular	na	na	soft	yellow	50				
+magic.0998	magic.100.998	285	na	no	2017.10.26	2017.10.17	1640	2	regular	na	na	soft	orange	50				
+magic.0999	magic.100.999	184	na	no	2017.10.26	2017.10.17	1111	24	regular	na	na	formed	brown	50				
+magic.1000		124	na	no	2017.10.26	2017.10.22	1600	36	regular	na	na	soft	green	75				
+magic.1001		249	na	no	2017.10.26	2017.10.21	1300	12	regular	na	na	soft	yellow	75				
+magic.1002		243	na	no	2017.10.26	2017.10.18	330	12	regular	na	na	soft	green	25				
+magic.1003		282	na	no	2017.10.26	2017.10.17	1645	3	regular	na	na	soft	yellow	10				
+magic.1004		126	na	no	2017.10.26	2017.10.17	1800	36	regular	na	na	soft	yellow/orange	50				
+magic.1005		293	na	no	2017.10.26	2017.10.18	1345	1	regular	na	na	watery	brown	25				
+magic.1006		192	na	no	2017.10.26	na	na	24	regular	na	na	formed	green/brown	50				
+magic.1007		242	na	no	2017.10.26	2017.10.22	1230	24	regular	na	na	watery	brown	75				
+magic.1008		287	na	no	2017.10.26	2017.10.18	1620	2	regular	na	na	soft	orange	50				
+magic.1009		287	na	no	2017.10.26	2017.10.11	1200	1	regular	na	na	soft	brown	50				
+magic.1010		125	na	no	2017.10.26	na	na	36	regular	na	na							
+magic.1011		298	na	no	2017.11.02	2017.10.25	1605	1	regular	na	na	soft	yellow	25				
+magic.1012		na	na	no	2017.11.02	na	na			na	na							
+magic.1013		293	na	no	2017.11.02	2017.10.25	1007	2	regular	na	na	soft	yellow	50				
+magic.1014		131	na	no	2017.11.02	2017.10.26	945	36	regular	na	na	soft	brown	50				
+magic.1015		289	na	no	2017.11.02	2017.10.18	940	2	regular	na	na	soft	yellow	50				
+magic.1016		238	na	no	2017.11.02	2017.10.25	2140	12	regular	na	na	formed	brown	75				
+magic.1017		127	na	no	2017.11.02	2017.10.24	1800	36	regular	na	na	soft	brown	75				
+magic.1018		282	na	no	2017.11.02	2017.10.24	930	4	regular	na	na	soft	yellow	50				
+magic.1019		302	7	yes	2017.11.02	2017.10.25	1030	0	regular	na	na	soft	green	75				
+magic.1020		300	9	yes	2017.11.02	2017.10.23	1445	0	regular	na	na	na	na	na	Transitional			
+magic.1021		299	16	yes	2017.11.02	2017.10.24	300	0	regular	na	na	na	na	na	Transitional			
+magic.1022		298	5	yes	2017.11.02	2017.10.20	1415	0	regular	na	na	na	na	na	na			
+magic.1023		297	11	yes	2017.11.02	2017.10.20	1130	0	regular	na	na	na	na	na	Transitional			
+magic.1024		295	7	yes	2017.11.02	2017.10.19	1130	0	regular	na	na	na	na	na	Transitional			
+magic.1025		294	5	yes	2017.11.02	2017.10.18	1730	0	regular	na	na	na	na	na	Transitional			
+magic.1026		292	10	yes	2017.11.02	2017.10.14	1020	0	regular	na	na	na	na	na	Transitional			
+magic.1027		293	8	yes	2017.11.02	2017.10.14	2140	0	regular	na	na	watery	green	25				
+magic.1028		285	na	no	2017.11.02	2017.10.24	1700	3	regular	na	na	formed	orange	50				
+magic.1029		299	na	no	2017.11.02	2017.10.27	1245	1	regular	na	na	soft	clay	50				
+magic.1030		247	na	no	2017.11.02	2017.10.27	1200	12	regular	na	na	soft	yellow	50				
+magic.1031		300	na	no	2017.11.02	2017.10.28	1200	1	regular	na	na	soft	yellow	75				
+magic.1032		111	na	no	2017.11.02	2017.10.28	1035	na	Abx	after	30	formed	green	50				
+magic.1033		287	na	no	2017.11.02	2017.10.25	900	3	regular	na	na	soft	yellow	50				
+magic.1034		193	na	no	2017.11.02	2017.10.27	1100	24	regular	na	na	formed	clay	75				
+magic.1035		253	na	no	2017.11.02	2017.10.27	430	12	regular	na	na	soft	green	50				
+magic.1036		286	na	no	2017.11.02	2017.10.24	2000	3	regular	na	na	soft	yellow	25				
+magic.1037		298	na	no	2017.11.09	2017.11.01	1715	2	regular	na	na	soft	yellow	25				
+magic.1038		198	na	no	2017.11.09	2017.11.02	1930	24	regular	na	na	soft	orange	10				
+magic.1039		290	na	no	2017.11.09	2017.11.03	2243	3	regular	na	na	watery	yellow	75				
+magic.1040		287	na	no	2017.11.09	2017.11.01	1200	4	regular	na	na	soft	orange	25				
+magic.1041		285	na	no	2017.11.09	2017.10.31	2200	4	regular	na	na	formed	orange	75				
+magic.1042		275	na	no	2017.11.09	2017.10.30	2230	4	regular	na	na	soft	yellow/green/brown	75				
+magic.1043		117	na	no	2017.11.10	2017.10.29	1645		Abx	during	5	formed	black/brown	75				
+magic.1044		254	na	no	2017.11.10	2017.10.29	1647	12	regular	na	na	watery	orange	75				
+magic.1045		117	na	no	2017.11.10	2017.10.09	815	36	regular	na	na	soft	yellow	75				
+magic.1046		302	na	no	2017.11.10	2017.10.30	1615	1	regular	na	na	watery	yellow	25				
+magic.1047		293	na	no	2017.11.10	2017.11.01	1735	3	regular	na	na	soft	green	25				
+magic.1048		280	na	no	2017.11.10	2017.10.20	2045	4	regular	na	na	soft	brown	75				
+magic.1049		281	na	no	2017.11.10	2017.10.23	253	4	regular	na	na	soft	yellow	75				
+magic.1050		286	na	no	2017.11.10	2017.11.01	40	4	regular	na	na	watery	green	75				
+magic.1051		296	na	na	na	na	na	na	na	na	na	na	na	na	na		No data sheet	
+magic.1052		296	na	na	na	na	na	na	na	na	na	na	na	na	na		No data sheet	
+magic.1053		302	na	no	2017.11.16	2017.11.06	1600	2	regular	na	na	watery	yellow	50				
+magic.1054		263	na	no	2017.11.16	2017.11.10	835	12	regular	na	na	soft	green	50				
+magic.1055		143	na	no	2017.11.16	2017.11.08	800	36	regular	na	na	formed	yellow	75			Sick baby sample -- mom & baby sick when collecting	
+magic.1056		300	na	no	2017.11.16	2017.11.11	1430	3	regular	na	na	soft	yellow	25				
+magic.1057		301	na	no	2017.11.16	2017.11.09	1000	3	regular	na	na	watery	yellow	75				
+magic.1058		301	na	no	2017.11.16	2017.11.03	2100	2	regular	na	na	watery	yellow	25				
+magic.1059		261	na	no	2017.11.16	2017.11.08	2130	12	regular	na	na	soft	green	50				
+magic.1060		295	na	no	2017.11.16	2017.10.31	1915	2	regular	na	na	soft	yellow/brown	75				
+magic.1061		196	na	no	2017.11.16	2017.11.02	1800	24	regular	na	na	formed	green	75				
+magic.1062		295	na	no	2017.11.16	2017.10.24	1430	1	regular	na	na	formed	yellow	50				
+magic.1063		169	na	no	2017.11.16	2017.11.06	1030	na	Abx	after	30	formed	brown	75				
+magic.1064		293	na	no	2017.11.16	2017.11.09	1245	4	regular	na	na	soft	yellow	75				
+magic.1065		138	na	no	2017.11.16	2017.11.05	1835	36	regular	na	na	formed	brown	50				
+magic.1066		141	na	no	2017.11.16	2017.11.08	1900	36	regular	na	na	formed/hard	brown	25				
+magic.1067		297	na	no	2017.11.16	2017.11.07	1232	3	regular	na	na	soft	yellow	50				
+magic.1068		298	na	no	2017.11.16	2017.11.08	1300	3	regular	na	na	soft	yellow	50				
+magic.1069		117	na	no	2017.11.16	2017.11.05	1054	na	Abx	after	2	formed	brown/black	50				
+magic.1070		299	na	no	2017.11.16	2017.11.03	1450	2	regular	na	na	formed	brown	75				
+magic.1071		259	na	no	2017.11.16	2017.11.07	1808	12	regular	na	na	watery	brown	50				
+magic.1072		296	na	na	2017.11.16	na	na	na	na	na	na	na	na	na	na		No datasheet	
+magic.1073		256	na	no	2017.11.16	2017.11.02	1245	12	regular	na	na	soft	green	50				
+magic.1074		290	na	no	2017.11.16	2017.11.06	1500	4	regular	na	na	soft	yellow/brown	75				
+magic.1075		151	na	no	2017.11.16	2017.10.29	1100	na	Abx	during	5	watery	green	50				
+magic.1076		136	na	no	2017.11.16	2017.10.31	800	36	regular	na	na	soft	brown	75				
+magic.1077		297	na	no	2017.11.16	2017.10.31	1803	2	regular	na	na	soft	yellow	25				
+magic.1078		191	na	no	2017.11.16	2017.10.27	630	24	regular	na	na	soft	brown	25				
+magic.1079		301	na	no	2017.11.16	2017.10.26	1600	1	regular	na	na	soft	yellow	50				
+magic.1080		195	na	no	2017.11.16	2017.10.23	1513	24	regular	na	na	formed	green	50				
+magic.1081		151	na	no	2017.11.16	2017.11.05	1230	na	Abx	after	2	soft	orange	50				
+magic.1082		300	na	no	2017.11.16	2017.11.04	1000	2	regular	na	na	soft	yellow	10				
+magic.1083		260	na	no	2017.11.16	2017.11.03	1730	12	regular	na	na	soft	orange	75				
+magic.1084		140	na	no	2017.11.16	2017.11.09	830	36	regular	na	na	formed	brown	50				
+magic.1085		257	na	na	2017.11.16	na	na	na	na	na	na	na	na	na			No datasheet	
+magic.1086		197	na	no	2017.11.16	2017.11.02	1800	24	regular	na	na	soft	brown	75				
+magic.1087		135	na	no	2017.11.16	2017.11.03	800	36	regular	na	na	watery	yellow	50				
+magic.1088		289	na	no	2017.11.16	na	na	4	regular	na	na	soft	yellow	25				
+magic.1089		301	na	no	2017.11.16	2017.10.23	1700	0	regular	na	na	watery	yellow	50				
+magic.1090		137	na	no	2017.11.16	2017.11.02	800	36	regular	na	na	formed	brown	50				
+magic.1091		142	na	no	2017.11.16	2017.11.02	730	36	regular	na	na	soft	green	50				
+magic.1092		289	na	no	2017.11.16	2017.10.25	900	3	regular	na	na	soft	yellow	25				
+magic.1093		283	na	no	2017.11.16	2017.10.23		4	regular	na	na	soft	orange	50				
+magic.1094		297	na	no	2017.12.21	2017.11.14	1800	4	regular	na	na	watery	yellow	25				
+magic.1095		308	na	no	2017.12.21	2017.11.19	1900	2	regular	na	na	watery	orange	25				
+magic.1096		317	na	no	2017.12.21	2017.12.08	1639	0	regular	na	na	soft	brown	25				
+magic.1097		144	na	no	2017.12.21	2017.11.28	na	na	Abx	after	2	formed	brown	50				
+magic.1098		268	na	no	2017.12.21	2014.11.22	1830	3	regular	na	na	formed	brown	75				
+magic.1099		106	na	no	2017.12.21	2017.11.28	800	na	Abx	prior	na	formed	brown	75				
+magic.1100		210	na	no	2017.12.21	na	na	na	na	na	na	na	na	na			No data sheet	
+magic.1101		307	na	no	2017.12.21	2017.11.27	1430	2	regular	na	na	soft	brown	75				
+magic.1102		319	na	no	2017.12.21	2017.12.15	1045	1	regular	na	na	soft	yellow	75				
+magic.1103		312	na	no	2017.12.21	2017.12.05	1530	1	regular	na	na	soft	orange	75				
+magic.1104		304	na	no	2017.12.21	2017.11.27	1530	3	regular	na	na	soft	yellow	75				
+magic.1105		305	na	no	2017.12.21	2017.12.02	1400	3	regular	na	na	soft	orange	75				
+magic.1106		169	na	no	2017.12.21	2017.12.03	800	na	Abx	after	10	formed	brown	50				
+magic.1107		307	na	no	2017.12.21	2017.12.02	1830	3	regular	na	na	soft	brown	75				
+magic.1108		164	na	no	2017.12.21	2017.12.11	1941	36	regular	na	na	formed	green	50				
+magic.1109		106	na	no	2017.12.21	2017.12.09	1955	na	Abx	after	2	hard	brown	10				
+magic.1110		151	na	no	2017.12.21	na	na	na	Abx	after	30	formed	yellow	75				
+magic.1111																		
+magic.1112		304	na	no	2017.12.21	2017.12.05	1443	4	regular	na	na	soft	yellow	50	na			
+magic.1113		308	na	no	2017.12.21	2017.12.06	2330	3	regular	na	na	watery	green	25	na			
+magic.1114		217	na	no	2017.12.21	2017.12.07	1130	24	regular	na	na	soft	yellow	50	na			
+magic.1115		104	na	no	2017.12.21	2017.12.14	855	48	regular	na	na	formed	brown	50	na			
+magic.1116		308	na	no	2017.12.21	2017.12.16	400	4	regular	na	na	watery	brown	50	na			
+magic.1117		316	na	no	2017.12.21	2017.12.14	530	1	regular	na	na	soft	yellow	50	na			
+magic.1118		190	na	no	2017.12.21	2017.12.10	1800	na	Abx	prior	na	soft	brown	75	na			
+magic.1119		190	na	no	2017.12.21	2017.12.11	1700	na	Abx	after	na	soft	brown	75	na			
+magic.1120		102	na	no	2017.12.21	2017.12.12	na	48	regular	na	na	formed	brown	50	na			
+magic.1121		235	na	no	2017.12.21	2017.12.05	1500	na	Abx	during	5	soft	yellow	10	na			
+magic.1122		274	na	no	2017.12.21	2017.12.06	945	12	regular	na	na	soft	orange	50	na			
+magic.1123		235	na	no	2017.12.21	2017.12.12	1000	na	Abx	after	2	soft	yellow	50	na			
+magic.1124		158	na	no	2017.12.21	2017.12.06	1000	36	regular	na	na	soft	yellow	50	na			
+magic.1125		270	na	no	2017.12.21	2017.12.01	1300	12	regular	na	na	soft	green	75	na			
+magic.1126		144	na	no	2017.12.21	2017.12.05	1930	na	Abx	after	10	formed	brown	25	na			
+magic.1127		313	na	no	2017.12.21	2017.12.07	1520	1	regular	na	na	soft	brown	50	na			
+magic.1128		314	na	no	2017.12.21	2017.12.07	1545	0	regular	na	na	watery	brown	75	na			
+magic.1129		221	na	no	2017.12.21	2017.12.08	800	na	Abx	after	7	soft	brown	25	na			
+magic.1130		126	na	no	2017.12.21	2017.12.02	1030	na	Abx	after	10	watery	yellow	75	na			
+magic.1131		318	na	no	2017.12.21	2017.12.14	1217	1	regular	na	na	soft	yellow	25	na			
+magic.1132		144	na	no	2017.12.21	2017.12.14	1810	na	Abx	prior	na	formed	brown	50	na			
+magic.1133		111	na	no	2017.12.21	2017.12.16	1035	na	Abx	during	5	formed	brown	50	na		Came with extra white sheet	
+magic.1134		312	na	no	2017.12.21	2017.12.12	1722	2	regular	na	na	soft	brown	10	na			
+magic.1135		296	na	no	2017.12.21	2017.11.13	1708	4	regular	na	na	watery	yellow	50	na			
+magic.1136		308	na	no	2017.12.21	2017.11.17	1555	0	regular	na	na	soft	brown	50	na			
+magic.1137		266	na	no	2017.12.21	2017.11.15	730	12	regular	na	na	soft	orange	75	na			
+magic.1138		302	na	no	2017.12.21	2017.8.13	2310	3	regular	na	na	watery	orange	75	na			
+magic.1139		105	na	no	2017.12.21	2017.12.14	1930	48	regular	na	na	soft	clay	75	na			
+magic.1140		162	na	no	2017.12.21	na	na	36	regular	na	na	soft	green	10	na			
+magic.1141		na	na	na	2017.12.21	na	na	na	na	na	na	na	na	na	na			
+magic.1142		101	na	no	2017.12.21	2017.12.11	1330	48	regular	na	na	formed	brown	50	na			
+magic.1143		218	na	no	2017.12.21	2017.12.12	1110	24	regular	na	na	soft	green	75	na			
+magic.1144		306	na	no	2017.12.21	2017.12.11	1100	4	regular	na	na	watery	orange	50	na			
+magic.1145		Pietro Garsili	na	no	2017.12.21	2017.12.11	1330	0	Abx	prior	na	soft	green	75	na			
+magic.1146		307	na	no	2017.12.21	2017.12.9	1345	4	regular	na	na	soft	brown	75	na			
+magic.1147		315	na	no	2017.12.21	2017.12.9	1530	1	regular	na	na	soft	brown	10	na			
+magic.1148					2017.12.21													
+magic.1149					2017.12.21													
+magic.1150		126	na	no	2017.12.21	2017.11.24	2030	na	Abx	after	2	soft	brown	50	na			
+magic.1151		202	na	no	2017.12.21	2017.11.29	900	na	Abx	after	2	soft	orange	75	na			
+magic.1152		271	na	no	2017.12.21	2017.11.29	1900	12	regular	na	na	watery	yellow	25	na			
+magic.1153		117	na	no	2017.12.21	2017.12.03	1340	na	Abx	after	30	formed	brown	75	na			
+magic.1154		306	na	no	2017.12.21	2017.12.02	1100	3	regular	na	na	watery	orange	50	na			
+magic.1155		273	na	no	2017.12.21	2017.12.01	1700	12	regular	na	na	soft	yellow	50	na			
+magic.1156		106	na	no	2017.12.21	2017.12.02	812	na	Abx	during	5	hard	brown	25	na			
+magic.1157		306	na	no	2017.12.21	2017.11.25	2100	2	regular	na	na	soft	orange	50	na			
+magic.1158		305	na	no	2017.12.21	2017.11.25	2300	2	regular	na	na	soft	orange	50	na			
+magic.1159		169	na	no	2017.12.21	2017.11.24	730	na	Abx	after	2	formed	brown	50	na			
+magic.1160		304	na	no	2017.12.21	2017.11.13	2300	1	regular	na	na	formed	green	50	na			
+magic.1161		299	na	no	2017.12.21	2017.11.10	1340	3	regular	na	na	formed	brown	50	na			
+magic.1162		117	na	no	2017.12.21	2017.11.12	1200	na	Abx	after	10	soft	brown	50	na			
+magic.1163		145	na	no	2017.12.21	2017.11.13	1615	36	regular	na	na	formed	brown	75	na			
+magic.1164					2017.12.21													
+magic.1165					2017.12.21													
+magic.1166					2017.12.21													
+magic.1167					2017.12.21													
+magic.1168					2017.12.21													
+magic.1169		209	na	no	2017.12.21	2017.12.04	1800	24	regular	na	na	formed	green	25	na			
+magic.1170		213	na	no	2017.12.21	2017.12.02	1438	24	regular	na	na	soft	orange	50	na			
+magic.1171		235	na	no	2017.12.21	2017.11.30	1530	na	Abx	prior	na	soft	green	75	na			
+magic.1172		153	na	no	2017.12.21	2017.11.28	913	36	regular	na	na	formed	brown	75	na			
+magic.1173		302	na	no	2017.12.21	2017.11.20	1840	4	regular	na	na	soft	yellow	50	na			
+magic.1174		204	na	no	2017.12.21	2017.11.25	1445	24	regular	na	na	soft	orange	75	na			
+magic.1175		208	na	no	2017.12.21	2017.11.26	1300	24	regular	na	na	formed	brown	75	na			
+magic.1176		221	na	no	2017.12.21	2017.11.26	na	na	Abx	during	5	soft	brown	50	na			
+magic.1177		143	na	no	2017.12.21	2017.12.12	930	na	Abx	prior	na	formed	orange	75	na			
+magic.1178		155	na	no	2017.12.21	2017.12.2	1000	36	regular	na	na	formed	green	75	na			
+magic.1179		277	na	no	2017.12.21	2017.12.12	1745	12	regular	na	na	soft	yellow	75	na			
+magic.1180		305	na	no	2017.12.21	2017.12.09	1040	4	regular	na	na	soft	orange	50	na			
+magic.1181		203	na	no	2017.12.21	2017.11.19	2000	24	regular	na	na	formed	brown	25	na			
+magic.1182		300	na	no	2017.12.21	2017.11.18	1800	4	regular	na	na	soft	orange	75	na			
+magic.1183		307	na	no	2017.12.21	2017.11.18	1800	1	regular	na	na	soft	brown	50	na			
+magic.1184		306	na	no	2017.12.21	2017.11.20	930	1	regular	na	na	watery	orange	75	na			
+magic.1185		na	na	no	2017.12.21	na	na	na	regular	na	na	na	na	na	na		No information on sample	
+magic.1186		144	na	no	2017.12.21	2017.11.14	721	36	regular	na	na	soft	brown	75	na			
+magic.1187		221	na	no	2017.12.21	2017.12.10	1345	na	Abx	during	10	formed	brown	25	na			
+magic.1188		306	na	no	2017.12.21	2017.11.13	2130	0	regular	na	na	soft	meconium	75	na			
+magic.1189		267	na	no	2017.12.21	2017.11.21	2130	12	regular	na	na	watery	clay	25	na			
+magic.1190		295	na	no	2017.12.21	2017.11.18	1030	4	regular	na	na	soft	yellow	75	na			
+magic.1191		301	na	no	2017.12.21	2017.11.16	1300	4	regular	na	na	watery	yellow	75	na			
+magic.1192		202	na	no	2017.12.21	2017.11.21	800	na	Abx	during	5	soft	orange	75	na			
+magic.1193		295	na	no	2017.12.21	2017.11.11	2250	3	regular	na	na	soft	brown	75	na			
+magic.1194		169	na	no	2017.12.21	2017.11.18	1900	36	Abx	during	5	formed	brown	10	na			
+magic.1195		144	na	no	2017.12.21	2017.11.21	1810	na	Abx	during	5	soft	orange	50	na			
+magic.1196		298	na	no	2017.12.21	2017.11.15	1315	4	regular	na	na	soft	yellow	75	na			
+magic.1197		147	na	no	2017.12.21	2017.11.17	na	24	Abx	prior	na	watery	orange	75	na		Also 6 month samples	
+magic.1198		147	na	no	2017.12.21	2017.11.16	820	36	regular	na	na	soft	orange	75	na			
+magic.1199		151	na	no	2017.12.21	2017.11.13	800	36	Abx	after	10	soft	green	75	na		Also 9 month sample	
+magic.1200		264	na	no	2017.12.21	2017.11.14	1520	12	regular	na	na	soft	yellow	25	na			
+magic.1201		149	na	no	2017.12.21	2017.11.16	2000	36	regular	na	na	formed	brown	50	na			
+magic.1202		299	na	no	2017.12.21	2017.11.17	1200	4	regular	na	na	soft	brown	50	na			
+magic.1203		304	na	no	2017.12.21	2017.11.17	930	2	regular	na	na	soft	orange	50	na			
+magic.1204		126	na	no	2017.12.21	2017.11.18	730	na	Abx	during	5	watery	yellow	50	na			
+magic.1205		265	na	no	2017.12.21	2017.11.15	1923	12	regular	na	na	formed	green	50	na			
+magic.1206		305	na	no	2017.12.21	2017.11.18	1500	1	regular	na	na	soft	orange	50	na			
+magic.1207		148	na	no	2017.12.21	2017.11.18	1800	36	regular	na	na	formed	orange	75	na			
+magic.1208		115	na	no	2018.01.17	2018.01.04	930	48	regular	na	na	soft	green	50	na			
+magic.1209		177	na	no	2018.01.17	2018.01.02	845	36	regular	na	na	hard	brown	50	na			
+magic.1210		322	na	no	2018.01.17	2018.01.02	2130	3	regular	na	na	watery	yellow	75	na			
+magic.1211		319	na	no	2018.01.17	2017.12.29	1507	3	regular	na	na	soft	yellow	50	na			
+magic.1212		316	na	no	2018.01.17	2017.12.28	2130	3	regular	na	na	soft	yellow	25	na			
+magic.1213		319	na	no	2018.01.17	2018.01.05	1247	4	regular	na	na	soft	yellow	50	na			
+magic.1214		111	na	no	2018.01.17	2017.12.29	1530	na	Abx	na	na	formed	green	75	na		Collection time point was not marked	
+magic.1215		203	na	no	2018.01.17	2017.12.30	1050	na	Abx	after	2	formed	brown	25	na			
+magic.1216		175	na	no	2018.01.17	2017.12.30	1150	36	regular	na	na	formed	brown	50	na			
+magic.1217		231	na	no	2018.01.17	2017.12.27	2100	24	regular	na	na	soft	green	50	na			
+magic.1218		143	na	no	2018.01.17	2018.01.01	1000	na	Abx	after	10	hard	brown	75	na			
+magic.1219		314	na	no	2018.01.17	2018.12.02	1400	4	regular	na	na	soft	yellow/orange	25	na		Collection date has not occurred yet	
+magic.1220		241	na	no	2018.01.17	2017.12.23	600	na	Abx	during	5	watery	green	na	na		Amount in diaper was not marked	
+magic.1221		144	na	no	2018.01.17	2018.01.02	2100	na	Abx	during	5	soft	green	50	na			
+magic.1222		315	na	no	2018.01.17	2017.12.31	30	4	regular	na	na	soft	orange	75	na			
+magic.1223		318	na	no	2018.01.17	2018.01.04	1800	4	regular	na	na	soft	green	25	na			
+magic.1224		180	na	no	2018.01.17	na	na	36	regular	na	na	formed	brown	50	na		Collection date and time not included	
+magic.1225		324	na	no	2018.01.17	2017.12.27	1800	1	regular	na	na	watery/soft	yellow	25	na			
+magic.1226		324	na	no	2018.01.17	2018.01.03	700	2	regular	na	na	soft	yellow	25	na			
+magic.1227		151	na	no	2018.01.17	2018.01.02	1000	na	Abx	prior	na	formed	brown	50	na			
+magic.1228		202	na	no	2018.01.17	2017.12.07	2030	na	Abx	after	10	soft	green	75	na			
+magic.1229		305	6	yes	2018.01.17	2017.11.12	1500	0	na	na	na	na	na	75	Transitional			
+magic.1230		304	9	yes	2018.01.17	2017.11.08	1440	0	na	na	na	na	brown	50	Transitional			
+magic.1231		307	16	yes	2018.01.17	2017.11.14	1320	0	na	na	na	formed	na	25	Transitional			
+magic.1232		312	10	yes	2018.01.17	2017.11.30	1300	0	na	na	na	soft	green	25	Transitional		Sample Time Point was 2 days after birth	
+magic.1233		309	5	yes	2018.01.17	2017.11.17	1600	0	na	na	na	na	meconium	25	Meconium			
+magic.1234		313	13	yes	2018.01.17	2017.12.04	1205	0	na	na	na	watery	green	50	Transitional			
+magic.1235		190	na	no	2018.01.17	2017.12.23	1000	na	Abx	after	2	soft	orange	50	na			
+magic.1236		280	na	no	2018.01.17	2017.09.22	1845	12	regular	na	na	soft	green	75	na			
+magic.1237		144	na	no	2018.01.17	2017.12.26	943	na	Abx	after	30	formed	brown	75	na			
+magic.1238		315	na	no	2018.01.17	2017.12.24	1530	3	regular	na	na	soft	yellow	50	na			
+magic.1239		229	na	no	2018.01.17	2017.12.24	800	24	regular	na	na	soft	brown	75	na			
+magic.1240		170	na	no	2018.01.17	2017.12.21	1900	36	regular	na	na	watery	brown	50	na			
+magic.1241		333	na	no	2018.01.24	2018.01.13	600	0	regular	na	na	watery	green	25	na			
+magic.1242		184	na	no	2018.01.24	2018.09.12	1400	36	regular	na	na	soft	brown	50	na			
+magic.1243		132	na	no	2018.01.24	2018.01.15	1230	na	Abx	after	2	formed	brown	75	na			
+magic.1244		293	na	no	2018.01.24	2018.01.11	1040	12	regular	na	na	soft	yellow	50	na			
+magic.1245		290	na	no	2018.01.24	2018.01.13	1010	na	Abx	after	10	soft	clay	75	na			
+magic.1246		281	na	no	2018.01.24	2018.01.12	734	12	regular	na	na	soft	green	75	na			
+magic.1247		290	na	no	2018.01.24	2018.01.04	1700	na	Abx	after	1	soft	clay	75	na			
+magic.1248		328	na	no	2018.01.24	2018.01.02	1454	1	regular	na	na	soft	orange	50	na			
+magic.1249		321	na	no	2018.01.24	2018.01.01	2120	3	regular	na	na	soft	yellow	50	na			
+magic.1250		132	na	no	2018.01.24	2018.01.18	1255	na	Abx	during	5	soft	brown	25	na			
+magic.1251		289	na	no	2018.01.24	2018.01.04	835	12	regular	na	na	soft	green	50	na			
+magic.1252		116	na	no	2018.01.24	2018.01.05	1200	48	regular	na	na	soft	brown	75	na			
+magic.1253		317	na	no	2018.01.24	2018.01.04	30	4	regular	na	na	formed	brown	25	na			
+magic.1254		203	na	no	2018.01.24	2018.01.07	830	na	Abx	after	10	formed	brown	50	na			
+magic.1255		117	na	no	2018.01.24	2018.01.04	1400	48	regular	na	na	formed	brown	75	na			
+magic.1256		221	na	no	2018.01.24	2018.01.07	1400	na	Abx	after	5	formed	brown	50	na			
+magic.1257		119	na	no	2018.01.24	2018.01.09	1520	48	regular	na	na	formed	brown	50	na			
+magic.1258		185	na	no	2018.01.24	na	na	36	regular	na	na	formed	brown	75	na		Stool had food chunks	
+magic.1259		287	na	no	2018.01.24	2018.01.04	1615	12	regular	na	na	soft	orange	25	na			
+magic.1260		144	na	no	2018.01.24	2018.01.09	1610	na	Abx	after	10	watery	yellow	25	na			
+magic.1261		120	na	no	2018.01.24	2018.01.10	1427	48	regular	na	na	soft	clay	75	na			
+magic.1262		106	na	no	2018.01.24	2017.12.18	1318	na	Abx	after	10	formed	brown	50	na			
+magic.1263		314	na	no	2018.01.24	2017.12.19	1655	2	regular	na	na	soft	orange	25	na			
+magic.1264		322	na	no	2018.01.24	2017.12.20	1200	1	regular	na	na	soft	yellow	75	na			
+magic.1265		107	na	no	2018.01.24	2017.12.18	1218	48	regular	na	na	formed	brown	50	na			
+magic.1266		316	13	yes	2018.01.24	2017.12.09	615	0	regular	na	na	watery	green	25	Transitional			
+magic.1267		316	9	yes	2018.01.24	2017.12.08	1250	0	regular	na	na	soft	meconium	25	Meconium			
+magic.1268		319	9	yes	2018.01.24	2017.12.09	1315	0	regular	na	na	soft	green	50	Transitional			
+magic.1269		322	9	yes	2018.01.24	2017.12.14	1930	0	regular	na	na	watery	meconium	50	Meconium			
+magic.1270		143	na	no	2018.01.26	2018.01.20	1510	na	Abx	after	30	formed	brown	75	na			
+magic.1271		321	na	no	2018.01.26	2018.01.18	2230	4	regular	na	na	soft	orange	10	na			
+magic.1272		189	na	no	2018.01.26	2018.01.18	1940	36	regular	na	na	formed	brown	25	na			
+magic.1273		144	na	no	2018.01.26	2018.01.18	1400	na	Abx	after	10	hard	brown	25	na			
+magic.1274		297	na	no	2018.01.26	na	na	12	regular	na	na	soft	yellow	25	na			
+magic.1275		124	na	no	2018.01.26	2018.01.17	1730	48	regular	na	na	hard	brown	75	na			
+magic.1276		242	na	no	2018.01.26	2018.01.17	1850	24	regular	na	na	soft	orange	75	na			
+magic.1277		151	na	no	2018.01.26	2018.01.14	800	na	Abx	after	2	formed	brown	50	na			
+magic.1278		329	na	no	2018.01.26	2018.01.14	1300		regular	na	na				na			
+magic.1279		330	na	no	2018.01.26	2018.01.15	1500	1	regular	na	na	soft	orange	25	na			
+magic.1280		328	na	no	2018.01.26	2018.01.19	1819	2	regular	na	na	watery	orange	50	na			
+magic.1281		332	na	no	2018.01.26	2018.01.18	2130	0	regular	na	na	watery	green	50	na			
+magic.1282		299	na	no	2018.01.26	2018.01.20	1300	12	regular	na	na	formed	green	75	na			
+magic.1283		329	na	no	2018.01.26	2018.01.21	1030		regular	na	na							
+magic.1284		327	na	no	2018.01.26	2018.01.18	1030	2	regular	na	na	watery	orange	25	na			
+magic.1285		239	na	no	2018.01.26	2018.01.21	630	na	Abx	during	5	soft	green	75	na			
+magic.1286		196	na	no	2018.01.26	2018.01.20	1600	na	Abx	after	30	formed	brown	75	na			
+magic.1287		190	na	no	2018.01.26	2018.01.20	1830	na	Abx	after	30	soft	brown	75	na			
+magic.1288		138	na	no	2018.01.26	2018.01.20	945	na	Abx	during	5	soft	brown	75	na			
+magic.1289		127	na	no	2018.01.26	2018.01.21	1200	48	regular	na	na	formed	brown	50	na			
+magic.1290		221	na	no	2018.01.26	2018.01.18	1545	na	Abx	after	14	formed	brown	25	na			
+magic.1291		125	na	no	2018.01.26			48	regular	na	na							
+magic.1292		126	na	no	2018.01.26	2018.01.17	1930	48	regular	na	na	hard	brown	25	na			
+magic.1293		238	na	no	2018.01.26	2018.01.14	1120	24	regular	na	na	formed	green	50	na			
+magic.1294		296	na	no	2018.01.26	2018.01.16	100	12	regular	na	na	soft	green	10	na			
+magic.1295		122	na	no	2018.01.26	2018.01.12	1530	48	regular	na	na	formed	brown	50	na			
+magic.1296		190	na	no	2018.01.26	2018.01.17	1615	36	regular	na	na	formed	brown	50	na			
+magic.1297		222	na	no	2018.01.26	2017.12.17	900	24	regular	na	na	formed	brown	50	na			
+magic.1298		220	na	no	2018.01.26	2017.12.14	418	24	regular	na	na	formed	yellow	25	na			
+magic.1299		323	na	no	2018.01.26	2018.01.05	1254	2	regular	na	na	soft	yellow	50	na			
+magic.1300		181	na	no	2018.01.26	2018.01.07	800	36	regular	na	na	soft	brown	75	na			
+magic.1301		285	na	no	2018.01.26	2018.01.03	830	12	regular	na	na	soft	green	50	na			
+magic.1302		323	na	no	2018.01.26	2018.01.08	1530	3	regular	na	na	soft	yellow	50	na			
+magic.1303		132	na	no	2018.01.26	2018.01.08	830	na	Abx	during	5	soft	brown	75	na			
+magic.1304		190	na	no	2018.01.26	2018.01.03	900	na	Abx	after	10	formed	brown	50	na			
+magic.1305		106	na	no	2018.01.26	2018.01.06	700	na	Abx	after	30	formed	orange	75	na			
+magic.1306		233	na	no	2018.01.26	2017.12.29	1930	24	regular	na	na	soft	orange	50	na			
+magic.1307		169	na	no	2018.01.26	2017.12.17	400	36	regular	na	na	formed	brown	25	na			
+magic.1308		320	na	no	2018.01.26	2017.12.14	2201	na	regular	na	na	soft	brown	50	na			
+magic.1309		224	na	no	2018.01.26	2017.12.15	1500	na	regular	na	na	formed	brown	75	na			
+magic.1310		143	na	no	2018.01.26	2017.12.17	1415	na	Abx	during	5	soft	orange	75	na			
+magic.1311		318	na	no	2018.01.26	2017.12.21	2245	2	regular	na	na	soft	yellow	25	na			
+magic.1312		161	na	no	2018.01.26	2018.01.06	1730	na	Abx	during	5	soft	brown	50	na			
+magic.1313		161	na	no	2018.01.26	2018.01.10	1730	na	Abx	after	2	soft	green	50	na			
+magic.1314		245	na	no	2018.01.26	2018.01.15	1830	24	regular	na	na	soft	yellow	75	na			
+magic.1315		247	na	no	2018.02.06	2018.01.20	1115	24	regular	na	na	soft	brown	75	na			
+magic.1316		251	na	no	2018.02.06	2018.02.01	1710	24	regular	na	na	soft	green	75	na			
+magic.1317		341	na	no	2018.02.06	2018.01.29	1358	0	regular	na	na	watery	meconium	25	na			
+magic.1318		231	na	no	2018.02.06	2018.01.27	1030	na	Abx	during	5	soft	brown	75	na			
+magic.1319		254	na	no	2018.02.06	2018.01.31	700	24	regular	na	na	formed	brown	50	na			
+magic.1320		102	na	no	2018.02.06	2018.01.31	815	na	Abx	after	2	hard	brown	25	na			
+magic.1321		241	na	no	2018.02.06	2018.01.08	730	na	Abx	after	10	formed	brown	75	na			
+magic.1322		324	na	no	2018.02.06	2018.01.10	500	3	regular	na	na	soft	yellow	25	na			
+magic.1323		241	na	no	2018.02.06	2017.12.30	1800	na	Abx	after	2	soft	green	75	na			
+magic.1324		327	na	no	2018.02.06	2018.01.25	1605	3	regular	na	na	soft	green	75	na			
+magic.1325		243	na	no	2018.02.06	2018.01.23	925	24	regular	na	na	soft	orange	50	na			
+magic.1326		132	na	no	2018.02.06	2018.01.23	900	na	Abx	after	10	formed	brown	75	na			
+magic.1327		330	na	no	2018.02.06	2018.01.22	1730	2	regular	na	na	soft	yellow	25	na			
+magic.1328		298	na	no	2018.02.06	2018.01.18	825	12	regular	na	na	soft	yellow	25	na			
+magic.1329		301	na	no	2018.02.06	2018.01.20	1200	12	regular	na	na	watery	yellow	50	na			
+magic.1330		249	na	no	2018.02.06	2018.01.21	728	24	regular	na	na	formed	orange	25	na			
+magic.1331		300	na	no	2018.02.06	2018.01.21	1400	12	regular	na	na	watery	green	25	na			
+magic.1332		330	na	no	2018.02.06	2018.01.29	1930	3	regular	na	na	soft	yellow	25	na			
+magic.1333		302	na	no	2018.02.06	2018.01.25	700	12	regular	na	na	watery	green	75	na			
+magic.1334		335	na	no	2018.02.06	2018.01.24	1000	1	regular	na	na	watery	yellow	25	na			
+magic.1335		155	na	no	2018.02.06	2018.01.31	815	na	Abx	after	10	formed	brown	75	na			
+magic.1336		327	na	no	2018.02.06	2018.02.01	1700	4	regular	na	na	soft	yellow	25	na			
+magic.1337		340	na	no	2018.02.06	2018.01.31	1830	1	regular	na	na	soft	orange	25	na			
+magic.1338		337	na	no	2018.02.06	2018.01.28	800	1	regular	na	na	soft	yellow	25	na			
+magic.1339		132	na	no	2018.02.06			48	regular	na	na							
+magic.1340		332	na	no	2018.02.06	2018.01.30	1030	2	regular	na	na	watery	yellow	50	na			
+magic.1341		338	na	no	2018.02.06	2018.01.29	1827	1	regular	na	na	soft	orange	50	na			
+magic.1342		117	na	no	2018.02.06	2018.01.29	1400	na	Abx	prior	na	hard	brown	75	na			
+magic.1343		329	na	no	2018.02.06	2018.01.28	930	3	regular	na	na	soft	yellow	25	na			
+magic.1344		334	na	no	2018.02.06	2018.01.18	1735	0	regular	na	na	watery	brown	25	na			
+magic.1345		286	na	no	2018.02.06			12	regular	na	na				na			
+magic.1346		111	na	no	2018.02.06	2018.01.20	1115	na	Abx	after	30	formed	brown	75	na			
+magic.1347		333	na	no	2018.02.06	2018.01.23	1630	2	regular	na	na	watery	yellow	50	na			
+magic.1348		325	na	no	2018.02.06	2018.01.29	2225	4	regular	na	na	soft	yellow	25	na			
+magic.1349		102	na	no	2018.02.06	2018.01.23	805	na	Abx	during	5	formed	brown	50	na			
+magic.1350		197	na	no	2018.02.06	2018.02.03	920	36	regular	na	na	formed	brown	75	na			
+magic.1351		196	na	no	2018.02.06			36	regular	na	na	soft	yellow	50	na			
+magic.1352		155	na	no	2018.02.06	2018.01.17	900	na	Abx	during	5	formed	green	50	na			
+magic.1353																		
+magic.1354																		
+magic.1355																		
+magic.1356																		
+magic.1357																		
+magic.1358																		
+magic.1359																		
+magic.1360																		
+magic.1361																		
+magic.1362																		
+magic.1363																		
+magic.1364																		
+magic.1365																		
+magic.1366																		
+magic.1367																		
+magic.1368																		
+magic.1369																		
+magic.1370																		
+magic.1371																		
+magic.1372																		
+magic.1373																		
+magic.1374																		
+magic.1375																		
+magic.1376																		
+magic.1377																		
+magic.1378																		
+magic.1379																		
+magic.1380																		
+magic.1381																		
+magic.1382																		
+magic.1383																		
+magic.1384																		
+magic.1385																		
+magic.1386																		
+magic.1387																		
+magic.1388																		
+magic.1389																		
+magic.1390																		
+magic.1391																		
+magic.1392																		
+magic.1393																		
+magic.1394																		
+magic.1395																		
+magic.1396																		
+magic.1397																		
+magic.1398																		
+magic.1399																		
+magic.1400																		
+magic.1401																		
+magic.1402																		
+magic.1403																		
+magic.1404																		
+magic.1405																		
+magic.1406																		
+magic.1407																		
+magic.1408																		
+magic.1409																		
+magic.1410																		
+magic.1411																		
+magic.1412																		
+magic.1413																		
+magic.1414																		
+magic.1415																		
+magic.1416																		
+magic.1417																		
+magic.1418																		
+magic.1419																		
+magic.1420																		
+magic.1421																		
+magic.1422																		
+magic.1423																		
+magic.1424																		
+magic.1425																		
+magic.1426																		
+magic.1427																		
+magic.1428																		
+magic.1429																		
+magic.1430																		
+magic.1431																		
+magic.1432																		
+magic.1433																		
+magic.1434																		
+magic.1435																		
+magic.1436																		
+magic.1437																		
+magic.1438																		
+magic.1439																		
+magic.1440																		
+magic.1441																		
+magic.1442																		
+magic.1443																		
+magic.1444																		
+magic.1445																		
+magic.1446																		
+magic.1447																		
+magic.1448																		
+magic.1449																		
+magic.1450																		
+magic.1451																		
+magic.1452																		
+magic.1453																		
+magic.1454																		
+magic.1455																		
+magic.1456																		
+magic.1457																		
+magic.1458																		
+magic.1459																		
+magic.1460																		
+magic.1461																		
+magic.1462																		
+magic.1463																		
+magic.1464																		
+magic.1465																		
+magic.1466																		
+magic.1467																		
+magic.1468																		
+magic.1469																		
+magic.1470																		
+magic.1471																		
+magic.1472																		
+magic.1473																		
+magic.1474																		
+magic.1475																		
+magic.1476																		
+magic.1477																		
+magic.1478																		
+magic.1479																		
+magic.1480																		
+magic.1481																		
+magic.1482																		
+magic.1483																		
+magic.1484																		
+magic.1485																		
+magic.1486																		
+magic.1487																		
+magic.1488																		
+magic.1489																		
+magic.1490																		
+magic.1491																		
+magic.1492																		
+magic.1493																		
+magic.1494																		
+magic.1495																		
+magic.1496																		
+magic.1497																		
+magic.1498																		
+magic.1499																		
+magic.1500																		
+magic.1501																		
+magic.1502																		
+magic.1503																		
+magic.1504																		
+magic.1505																		
+magic.1506																		
+magic.1507																		
+magic.1508																		
