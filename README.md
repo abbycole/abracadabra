@@ -8,3 +8,7 @@ From your friends at the Knights's lab
 1. Start with tax.txt table from the raw burst ouptut folder
 2. Work through normalization steps in Tonya pdf
 3. Try to make a relative abundance stacked bar chart for each sample
+
+
+# Resources:
+If you are looking to make your figures more color blind friendly, try this site: http://projects.susielu.com/viz-palette
