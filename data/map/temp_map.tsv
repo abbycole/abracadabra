@@ -1,4 +1,4 @@
- 	Sample_ID2	Patient_No	Stool_No_Hospital	Hospital	Date_Recieved	Date_Collected	Time_Collected	Timeline_Weeks	Abx_regular	"Abx_timeline(prior, during, after)"	abx_day	Consistency	Color	Amount	Hospital_Stool_Type	Entered into REDCap by CHOP RA?	Notes	Sequencing_Run
+SampleID 	Sample_ID2	Patient_No	Stool_No_Hospital	Hospital	Date_Recieved	Date_Collected	Time_Collected	Timeline_Weeks	Abx_regular	"Abx_timeline(prior, during, after)"	abx_day	Consistency	Color	Amount	Hospital_Stool_Type	Entered into REDCap by CHOP RA?	Notes	Sequencing_Run
 magic.0001	magic.100.001	101	1	yes	2016.12.16	2016.12.10	1430	na	na	na	na	na	na					seq_1
 magic.0002	magic.100.002	102	3	yes	2016.12.20	2016.12.16	1550	na	na	na	na	na	na					
 magic.0003	magic.100.003	102	6	yes	2016.12.20	2016.12.14	715	na	na	na	na	na	na					
