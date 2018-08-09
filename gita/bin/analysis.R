@@ -1,6 +1,6 @@
 
 setwd("/Users/Gita Raman/Desktop/MAGIC/Project 1")
-metadata <- read.delim("../../../Documents/GitHub/abracadabra/data/map/temp_map.tsv", 
+metadata <- read.delim("../../../Documents/GitHub/abracadabra/data/map/temp_map.txt", 
                        header=T,
                         sep='\t',
                          check.names=F,
