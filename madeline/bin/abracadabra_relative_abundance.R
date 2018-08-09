@@ -11,7 +11,7 @@ metadata <- read.table("temp_map.txt",
                        row=1)
 
 setwd("~/KnightsLab")
-metadata <- read.delim("~/KnightsLab/abracadabra/data/map/temp_map.tsv",
+metadata <- read.delim("~/KnightsLab/abracadabra/data/map/temp_map.txt",
                        header=T,
                        sep='\t',
                        check.names=F,
