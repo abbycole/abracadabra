@@ -1,23 +1,14 @@
 #set working directory to where the .txt file is (to make .tsv to .txt, open it in Excel and save)
-setwd("~/KnightsLab")
+setwd("~/GitHub/abracadabra/patrick/")
 
 #now lets make a relative abundance stacked bar chart
-metadata <- read.table("temp_map.txt",
-                       header=T,
-                       sep=',',
-                       check.names=F,
-                       comment='',
-                       quote = " ",
-                       row=1)
-
-setwd("~/KnightsLab")
-metadata <- read.delim("~/KnightsLab/abracadabra/data/map/temp_map.txt",
+metadata <- read.delim("../data/map/temp_map.txt",
                        header=T,
                        sep='\t',
                        check.names=F,
                        comment='')
 #this is the normalized table
-otu <- read.table("~/KnightsLab/Normalized_tax.txt",
+otu <- read.table("../data/processed_tax/taxonomy_norm_s.txt",
                   comment="",
                   header=TRUE,
                   sep="\t",
